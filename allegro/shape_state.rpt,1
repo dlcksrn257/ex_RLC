@@ -1,0 +1,19 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dynamic Shape Status                                             )
+(                                                                     )
+(    Drawing          : ex2_RLC.brd                                   )
+(    Software Version : 16.6S034                                      )
+(    Date/Time        : Thu Jul 11 11:06:42 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Dynamic shapes out of date: 1 out of 1
+  Current fill mode         : SMOOTH
+
+
+  <<<  ETCH  >>>
+
+    Layer = BOTTOM
+       State: No Etch      Point on shape: (20.955 37.211)  Net: GND

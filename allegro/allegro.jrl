@@ -1,0 +1,3054 @@
+\t (00:01:23) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:01:23)     Journal start - Thu Jul 11 09:11:09 2019
+\t (00:01:23)         Host=DESKTOP-0CCQGI6 User=user Pid=9228 CPUs=4
+\t (00:01:23) CmdLine= allegro.exe -p .
+\t (00:01:23) 
+\d (00:01:23) Design opened: C:/Users/user/Desktop/vscode_orcad/workspace/ex2_RLC/allegro/ex2_RLC.brd
+\i (00:01:23) signalintegrity 
+\i (00:01:26) delete 
+\i (00:01:26) drag_start grid 48.656 42.719
+\i (00:01:26) drag_stop 54.985 42.306
+\t (00:01:26) Dynamic Shape "Gnd, Boundary/Bottom"
+\i (00:01:28) pick grid -2.730 43.131
+\t (00:01:28) last pick:  -2.667 43.180
+\i (00:01:29) undo 
+\i (00:01:29) trapsize 344
+\i (00:01:29) signalintegrity 
+\i (00:01:30) redo 
+\i (00:01:30) trapsize 344
+\i (00:01:30) replay C:/Users/user/Desktop/vscode_orcad/home/tmp/#Taaaaab09228.tmp 
+\i (00:01:30) scriptmode +i 
+\i (00:01:30) delete 
+\i (00:01:30) drag_start grid 48.656 42.719 
+\i (00:01:30) drag_stop 54.985 42.306 
+\t (00:01:30) Dynamic Shape "Gnd, Boundary/Bottom"
+\i (00:01:30) pick grid -2.730 43.131 
+\t (00:01:30) last pick:  -2.667 43.180
+\i (00:01:30) done 
+\i (00:01:30) trapsize 344
+\i (00:01:30) signalintegrity 
+\i (00:01:33) undo 
+\i (00:01:33) trapsize 344
+\i (00:01:33) signalintegrity 
+\i (00:07:19) zoom in 1 
+\i (00:07:19) setwindow pcb
+\i (00:07:19) zoom in 32.903 22.838
+\i (00:07:19) trapsize 172
+\i (00:07:19) zoom in 1 
+\i (00:07:19) setwindow pcb
+\i (00:07:19) zoom in 32.800 22.941
+\i (00:07:19) trapsize 86
+\i (00:07:19) zoom out 1 
+\i (00:07:19) setwindow pcb
+\i (00:07:19) zoom out 33.162 23.130
+\i (00:07:19) trapsize 172
+\i (00:07:19) zoom out 1 
+\i (00:07:19) setwindow pcb
+\i (00:07:19) zoom out 33.162 23.131
+\i (00:07:19) trapsize 344
+\i (00:07:20) zoom out 1 
+\i (00:07:20) setwindow pcb
+\i (00:07:20) zoom out 33.505 23.199
+\i (00:07:20) trapsize 688
+\i (00:07:20) zoom out 1 
+\i (00:07:20) setwindow pcb
+\i (00:07:20) zoom out 52.222 23.475
+\i (00:07:20) trapsize 1376
+\i (00:07:20) zoom in 1 
+\i (00:07:20) setwindow pcb
+\i (00:07:20) zoom in 53.461 87.030
+\i (00:07:20) trapsize 688
+\i (00:07:21) zoom out 1 
+\i (00:07:21) setwindow pcb
+\i (00:07:21) zoom out 4.758 27.595
+\i (00:07:21) trapsize 1376
+\i (00:07:21) zoom out 1 
+\i (00:07:21) setwindow pcb
+\i (00:07:21) zoom out 12.461 38.602
+\i (00:07:21) trapsize 2752
+\i (00:07:22) zoom in 1 
+\i (00:07:22) setwindow pcb
+\i (00:07:22) zoom in 19.341 0.630
+\i (00:07:22) trapsize 1376
+\i (00:07:22) zoom in 1 
+\i (00:07:22) setwindow pcb
+\i (00:07:22) zoom in 19.341 0.630
+\i (00:07:22) trapsize 688
+\i (00:07:23) roam start
+\i (00:07:23) roam x -64
+\i (00:07:23) roam x -64
+\i (00:07:23) roam x -48
+\i (00:07:23) roam x -48
+\i (00:07:23) roam x -32
+\i (00:07:23) roam y 16
+\i (00:07:23) roam x 64
+\i (00:07:23) roam x 96
+\i (00:07:24) roam x 32
+\i (00:07:24) roam x 32
+\i (00:07:24) roam y -32
+\i (00:07:24) roam x 32
+\i (00:07:24) roam y -16
+\i (00:07:24) roam x -48
+\i (00:07:24) roam x -80
+\i (00:07:24) roam y 16
+\i (00:07:24) roam x -112
+\i (00:07:24) roam y 16
+\i (00:07:24) roam x -32
+\i (00:07:24) roam y 16
+\i (00:07:24) roam x 16
+\i (00:07:24) roam x 16
+\i (00:07:24) roam y -16
+\i (00:07:25) roam y -16
+\i (00:07:25) roam x 16
+\i (00:07:25) roam y -16
+\i (00:07:25) roam y -16
+\i (00:07:25) roam x 16
+\i (00:07:25) roam y -16
+\i (00:07:25) roam y -16
+\i (00:07:25) roam y 48
+\i (00:07:25) roam x -16
+\i (00:07:25) roam y 48
+\i (00:07:25) roam y 32
+\i (00:07:25) roam y 16
+\i (00:07:25) roam y 16
+\i (00:07:25) roam x -16
+\i (00:07:25) roam y 16
+\i (00:07:26) roam end
+\i (00:07:26) zoom in 1 
+\i (00:07:26) setwindow pcb
+\i (00:07:26) zoom in 19.065 19.753
+\i (00:07:26) trapsize 344
+\i (00:07:27) zoom out 1 
+\i (00:07:27) setwindow pcb
+\i (00:07:27) zoom out 17.827 17.139
+\i (00:07:27) trapsize 688
+\i (00:07:29) zoom in 1 
+\i (00:07:29) setwindow pcb
+\i (00:07:29) zoom in 13.976 9.572
+\i (00:07:29) trapsize 344
+\i (00:07:30) zoom out 1 
+\i (00:07:30) setwindow pcb
+\i (00:07:30) zoom out 23.263 17.002
+\i (00:07:30) trapsize 688
+\i (00:07:32) zoom in 1 
+\i (00:07:32) setwindow pcb
+\i (00:07:32) zoom in 18.998 27.458
+\i (00:07:32) trapsize 344
+\i (00:07:33) zoom out 1 
+\i (00:07:33) setwindow pcb
+\i (00:07:33) zoom out 19.136 26.220
+\i (00:07:33) trapsize 688
+\i (00:07:34) zoom in 1 
+\i (00:07:34) setwindow pcb
+\i (00:07:34) zoom in 16.660 22.367
+\i (00:07:34) trapsize 344
+\i (00:07:52) redo 
+\i (00:07:52) trapsize 344
+\i (00:07:52) replay C:/Users/user/Desktop/vscode_orcad/home/tmp/#Taaaaac09228.tmp 
+\i (00:07:52) scriptmode +i 
+\i (00:07:52) delete 
+\i (00:07:52) drag_start grid 48.656 42.719 
+\i (00:07:52) drag_stop 54.985 42.306 
+\t (00:07:52) Dynamic Shape "Gnd, Boundary/Bottom"
+\i (00:07:52) pick grid -2.730 43.131 
+\t (00:07:52) last pick:  -2.667 43.180
+\i (00:07:52) done 
+\i (00:07:52) trapsize 344
+\i (00:07:52) signalintegrity 
+\i (00:07:59) zoom out 1 
+\i (00:07:59) setwindow pcb
+\i (00:07:59) zoom out 27.606 41.137
+\i (00:07:59) trapsize 688
+\i (00:08:00) zoom in 1 
+\i (00:08:00) setwindow pcb
+\i (00:08:00) zoom in 16.176 38.660
+\i (00:08:00) trapsize 344
+\i (00:08:03) roam start
+\i (00:08:03) roam y 16
+\i (00:08:03) roam y 32
+\i (00:08:03) roam y -32
+\i (00:08:03) roam y -16
+\i (00:08:04) roam y -16
+\i (00:08:04) roam end
+\i (00:08:34) zcopy shape 
+\t (00:08:34) Select cline, shape, rectangle or closed polygon.
+   (00:08:34) Loading cmds.cxt 
+   (00:08:34) Loading axlcore.cxt 
+\i (00:08:41) setwindow form.mini
+\i (00:08:41) FORM mini dynamic_shape YES 
+\i (00:08:49) FORM mini offset 3.000 
+\i (00:08:49) setwindow pcb
+\i (00:08:49) pick 62.334 40.803
+\t (00:08:49) last pick:  62.334 40.803
+\t (00:08:49) No Element Found.
+\i (00:08:50) drag_start 60.821 41.491
+\i (00:08:50) drag_stop 64.123 37.845
+\t (00:08:50) No Element Found.
+\i (00:08:54) drag_start 49.952 43.004
+\i (00:08:54) drag_stop 55.524 42.041
+\t (00:08:54) No Element Found.
+\i (00:08:56) drag_start 53.048 40.872
+\i (00:08:57) drag_stop 56.006 38.670
+\t (00:08:57) No Element Found.
+\i (00:09:00) pick 68.319 42.316
+\t (00:09:00) last pick:  68.319 42.316
+\t (00:09:00) No Element Found.
+\i (00:09:00) pick 69.901 42.179
+\t (00:09:00) last pick:  69.901 42.179
+\i (00:09:51) pick -6.387 27.939
+\t (00:09:51) last pick:  -6.387 27.939
+\t (00:09:51) No Element Found.
+\i (00:10:45) pick ext 5.445 41.284
+\t (00:10:45) last pick:  5.445 41.284
+\i (00:11:45) pick 53.735 36.744
+\t (00:11:45) last pick:  53.735 36.744
+\i (00:11:45) pick 55.386 39.771
+\t (00:11:45) last pick:  55.386 39.771
+\i (00:11:48) delete 
+\i (00:11:49) drag_start grid 54.355 39.290
+\i (00:11:49) drag_stop 57.175 37.845
+\t (00:11:49) Dynamic Shape "Dummy Net, Boundary/Top"
+\i (00:11:49) drag_start grid 55.799 41.835
+\i (00:11:49) drag_stop 61.302 37.776
+\t (00:11:49) Dynamic Shape "Dummy Net, Boundary/Top"
+\i (00:11:51) drag_start grid 61.784 44.862
+\i (00:11:51) drag_stop 64.879 42.179
+\t (00:11:51) Dynamic Shape "Dummy Net, Boundary/Top"
+\i (00:11:52) drag_start grid 59.170 43.830
+\i (00:11:52) drag_stop 63.710 41.216
+\i (00:12:05) shape add rect 
+\i (00:12:06) pick grid -4.255 46.719
+\t (00:12:06) last pick:  -4.318 46.736
+\i (00:12:07) pick grid 75.542 8.472
+\t (00:12:07) last pick:  75.565 8.509
+\i (00:12:09) pick grid -5.562 14.181
+\t (00:12:09) last pick:  -5.588 14.224
+\i (00:12:11) pick grid 77.537 0.492
+\t (00:12:11) last pick:  77.597 0.508
+\i (00:12:14) delete 
+\i (00:12:14) drag_start grid 50.846 44.862
+\i (00:12:14) drag_stop 62.885 40.803
+\t (00:12:14) Dynamic Shape "Dummy Net, Boundary/Top"
+\i (00:12:15) drag_start grid 55.318 43.211
+\i (00:12:15) drag_stop 64.123 40.321
+\i (00:12:16) drag_start grid 54.767 13.424
+\i (00:12:16) drag_stop 61.302 11.017
+\t (00:12:16) Dynamic Shape "Dummy Net, Boundary/Top"
+\i (00:12:16) drag_start grid 57.313 11.154
+\i (00:12:16) drag_stop 61.165 9.641
+\i (00:12:19) zcopy shape 
+\t (00:12:20) Select cline, shape, rectangle or closed polygon.
+\i (00:12:23) pick 70.039 42.454
+\t (00:12:23) last pick:  70.039 42.454
+\i (00:12:39) zoom in 1 
+\i (00:12:39) setwindow pcb
+\i (00:12:39) zoom in 69.970 38.395
+\i (00:12:39) trapsize 172
+\i (00:12:39) zoom in 1 
+\i (00:12:39) setwindow pcb
+\i (00:12:39) zoom in 69.970 38.396
+\i (00:12:39) trapsize 86
+\i (00:12:41) zoom out 1 
+\i (00:12:41) setwindow pcb
+\i (00:12:41) zoom out 62.489 38.774
+\i (00:12:41) trapsize 172
+\i (00:12:41) zoom out 1 
+\i (00:12:41) setwindow pcb
+\i (00:12:41) zoom out 62.490 38.774
+\i (00:12:41) trapsize 344
+\i (00:12:42) zoom out 1 
+\i (00:12:42) setwindow pcb
+\i (00:12:42) zoom out 63.316 40.150
+\i (00:12:42) trapsize 688
+\i (00:12:46) zoom in 1 
+\i (00:12:46) setwindow pcb
+\i (00:12:46) zoom in -22.071 51.708
+\i (00:12:46) trapsize 344
+\i (00:12:46) zoom in 1 
+\i (00:12:46) setwindow pcb
+\i (00:12:46) zoom in -21.864 51.364
+\i (00:12:46) trapsize 172
+\i (00:12:46) zoom out 1 
+\i (00:12:47) setwindow pcb
+\i (00:12:47) zoom out -12.233 49.920
+\i (00:12:47) trapsize 344
+\i (00:12:47) zoom out 1 
+\i (00:12:47) setwindow pcb
+\i (00:12:47) zoom out -5.492 49.301
+\i (00:12:47) trapsize 688
+\i (00:12:51) prepopup 93.909 45.035
+\i (00:12:52) pop Done 
+\i (00:12:52) signalintegrity 
+\i (00:13:04) delete 
+\i (00:13:04) drag_start grid 50.296 42.146
+\i (00:13:04) drag_stop 56.074 40.633
+\t (00:13:04) Dynamic Shape "Dummy Net, Boundary/Top"
+\i (00:13:05) drag_start grid 52.360 42.146
+\i (00:13:05) drag_stop 67.081 40.633
+\i (00:13:11) zcopy shape 
+\t (00:13:11) Select cline, shape, rectangle or closed polygon.
+\i (00:13:19) setwindow form.mini
+\i (00:13:19) FORM mini offset 0.000 
+\i (00:13:21) setwindow pcb
+\i (00:13:21) trapsize 2125
+\i (00:13:21) trapsize 688
+\i (00:13:22) delete 
+\i (00:13:23) delete 
+\i (00:13:23) delete 
+\i (00:13:24) delete 
+\i (00:13:24) delete 
+\i (00:13:24) delete 
+\i (00:13:25) delete 
+\i (00:13:25) delete 
+\i (00:13:25) delete 
+\i (00:13:25) delete 
+\i (00:13:25) delete 
+\i (00:13:30) opencd C:/Users/user/Desktop/vscode_orcad/workspace/ex2_RLC/allegro/ex2_RLC.brd 
+\e (00:13:30) Do you want to save the changes you made to ex2_RLC.brd?
+\i (00:13:31) fillin menu_cancel 
+\i (00:13:31) signalintegrity 
+\i (00:13:33) file_property 
+\i (00:13:34) setwindow form.fileprop
+\i (00:13:34) FORM fileprop cancel  
+\i (00:13:34) setwindow pcb
+\i (00:13:34) signalintegrity 
+\i (00:13:36) opencd C:/Users/user/Desktop/vscode_orcad/workspace/ex2_RLC/allegro/ex2_RLC.brd 
+\e (00:13:36) Do you want to save the changes you made to ex2_RLC.brd?
+\i (00:13:37) fillin no 
+\t (00:13:37) Opening existing design...
+\i (00:13:37) trapsize 344
+\d (00:13:37) Design opened: C:/Users/user/Desktop/vscode_orcad/workspace/ex2_RLC/allegro/ex2_RLC.brd
+\i (00:13:38) signalintegrity 
+\i (00:13:39) delete 
+\i (00:13:40) drag_start grid 52.371 40.793
+\i (00:13:40) drag_stop 58.974 39.348
+\t (00:13:40) Dynamic Shape "Gnd, Boundary/Bottom"
+\i (00:13:40) drag_start grid 54.090 41.412
+\i (00:13:40) drag_stop 62.964 39.554
+\i (00:13:46) zcopy shape 
+\t (00:13:46) Select cline, shape, rectangle or closed polygon.
+\i (00:13:47) drag_start 58.493 40.999
+\i (00:13:47) drag_stop 60.350 40.793
+\t (00:13:47) No Element Found.
+\i (00:13:49) pick 67.023 39.967
+\t (00:13:49) last pick:  67.023 39.967
+\i (00:14:26) pick 85.115 27.929
+\t (00:14:26) last pick:  85.115 27.929
+\t (00:14:26) No Element Found.
+\i (00:14:28) prepopup 72.251 37.697
+\i (00:14:28) pop Done 
+\i (00:14:28) signalintegrity 
+\i (00:14:30) zoom in 1 
+\i (00:14:30) setwindow pcb
+\i (00:14:30) zoom in 69.912 37.766
+\i (00:14:30) trapsize 172
+\i (00:14:33) zoom out 1 
+\i (00:14:33) setwindow pcb
+\i (00:14:33) zoom out 70.050 37.731
+\i (00:14:33) trapsize 344
+\i (00:18:29) pick grid -9.610 36.150
+\t (00:18:29) last pick:  -9.652 36.195
+\i (00:18:32) shape add 
+\i (00:18:34) zoom in 1 
+\i (00:18:34) setwindow pcb
+\i (00:18:34) zoom in 42.396 34.499
+\i (00:18:34) trapsize 172
+\i (00:18:34) zoom in 1 
+\i (00:18:34) setwindow pcb
+\i (00:18:34) zoom in 42.774 36.047
+\i (00:18:34) trapsize 86
+\i (00:18:34) zoom in 1 
+\i (00:18:34) setwindow pcb
+\i (00:18:34) zoom in 42.774 36.098
+\i (00:18:34) trapsize 43
+\i (00:18:35) zoom out 1 
+\i (00:18:35) setwindow pcb
+\i (00:18:35) zoom out 44.365 36.038
+\i (00:18:35) trapsize 86
+\i (00:18:35) zoom out 1 
+\i (00:18:35) setwindow pcb
+\i (00:18:35) zoom out 44.365 36.039
+\i (00:18:35) trapsize 172
+\i (00:18:40) pick grid 40.959 37.414
+\t (00:18:40) last pick:  41.021 37.465
+\i (00:18:42) prepopup 46.599 37.345
+\i (00:18:43) oops 
+\i (00:18:50) setwindow form.mini
+\i (00:18:50) FORM mini dyns_netname_list  
+\i (00:19:02) fillin "Vcc"
+\t (00:19:02) Assigning selected shape to net: VCC
+\i (00:19:19) setwindow pcb
+\i (00:19:19) pick grid 39.445 37.311
+\t (00:19:19) last pick:  39.497 37.338
+\i (00:19:21) pick grid 58.706 34.078
+\t (00:19:21) last pick:  58.674 34.036
+\i (00:19:46) pick grid 43.676 32.461
+\t (00:19:46) last pick:  43.688 32.512
+\i (00:19:47) pick grid 43.951 32.599
+\t (00:19:47) last pick:  43.942 32.639
+\i (00:19:49) prepopup 39.549 37.242
+\i (00:19:50) done 
+\i (00:19:50) signalintegrity 
+\i (00:20:04) shape select 
+\i (00:20:06) pick grid 44.157 34.456
+\t (00:20:06) last pick:  44.196 34.417
+\i (00:20:07) prepopup 44.329 34.559
+\i (00:20:15) pop shape raise priority 
+\w (00:20:15) Shape already is at highest priority for this layer.
+\i (00:20:17) prepopup 45.499 33.665
+\i (00:20:19) pop shape raise priority 
+\w (00:20:19) Shape already is at highest priority for this layer.
+\i (00:20:59) drag_start grid 43.298 33.287
+\t (00:20:59) last pick:  43.423 33.412
+\i (00:20:59) drag_stop grid 42.713 33.115
+\e (00:20:59) ERROR(SPMHGE-471): Vertex forms an illegal shape, select again.
+\i (00:21:06) delete 
+\i (00:21:07) pick grid 45.120 34.697
+\t (00:21:07) last pick:  45.085 34.671
+\t (00:21:07) Dynamic Shape "Vcc, Boundary/Top"
+\i (00:21:08) drag_start grid 45.292 34.938
+\i (00:21:08) drag_stop 46.118 33.975
+\t (00:21:08) Dynamic Shape "Dummy Net, Boundary/Top"
+\i (00:21:09) zoom in 1 
+\i (00:21:09) setwindow pcb
+\i (00:21:09) zoom in 46.359 34.147
+\i (00:21:09) trapsize 86
+\i (00:21:09) zoom in 1 
+\i (00:21:09) setwindow pcb
+\i (00:21:09) zoom in 46.359 34.147
+\i (00:21:09) trapsize 43
+\i (00:21:09) zoom out 1 
+\i (00:21:09) setwindow pcb
+\i (00:21:09) zoom out 46.127 34.199
+\i (00:21:09) trapsize 86
+\i (00:21:09) zoom out 1 
+\i (00:21:09) setwindow pcb
+\i (00:21:09) zoom out 46.007 34.199
+\i (00:21:09) trapsize 172
+\i (00:21:10) zoom out 1 
+\i (00:21:10) setwindow pcb
+\i (00:21:10) zoom out 42.052 33.614
+\i (00:21:10) trapsize 344
+\i (00:21:11) drag_start grid 38.750 31.689
+\i (00:21:11) drag_stop 42.327 29.212
+\i (00:21:18) zcopy shape 
+\t (00:21:18) Select cline, shape, rectangle or closed polygon.
+\i (00:21:20) pick 67.091 34.647
+\t (00:21:20) last pick:  67.091 34.647
+\i (00:21:36) shape add 
+\i (00:21:38) setwindow form.mini
+\i (00:21:38) FORM mini dyns_netname_list  
+\i (00:21:40) fillin "Vcc"
+\t (00:21:40) Assigning selected shape to net: VCC
+\i (00:21:45) setwindow pcb
+\i (00:21:45) pick grid 39.438 37.054
+\t (00:21:45) last pick:  39.497 37.084
+\i (00:21:55) prepopup 51.957 37.880
+\i (00:21:56) done 
+\i (00:21:56) signalintegrity 
+\i (00:22:03) pick grid 35.792 43.658
+\t (00:22:03) last pick:  35.814 43.688
+\i (00:22:04) pick grid 37.925 43.520
+\t (00:22:04) last pick:  37.973 43.561
+\i (00:22:05) pick grid 47.899 42.420
+\t (00:22:05) last pick:  47.879 42.418
+\i (00:22:07) shape add 
+\i (00:22:08) pick grid 38.337 42.832
+\t (00:22:08) last pick:  38.354 42.799
+\i (00:22:09) prepopup 40.883 44.346
+\i (00:22:09) oops 
+\i (00:22:11) setwindow form.mini
+\i (00:22:11) FORM mini dyns_netname_list  
+\i (00:22:13) fillin "Vcc"
+\t (00:22:13) Assigning selected shape to net: VCC
+\i (00:22:14) setwindow pcb
+\i (00:22:14) pick grid 39.576 42.901
+\t (00:22:14) last pick:  39.624 42.926
+\i (00:22:15) pick grid 50.719 40.769
+\t (00:22:15) last pick:  50.673 40.767
+\i (00:22:18) pick grid 48.931 30.726
+\t (00:22:18) last pick:  48.895 30.734
+\i (00:22:20) pick grid 36.618 31.207
+\t (00:22:20) last pick:  36.576 31.242
+\i (00:22:21) pick grid 36.549 42.764
+\t (00:22:21) last pick:  36.576 42.799
+\i (00:22:22) prepopup 41.639 42.695
+\i (00:22:22) done 
+\i (00:22:22) signalintegrity 
+\i (00:24:03) zoom in 1 
+\i (00:24:03) setwindow pcb
+\i (00:24:03) zoom in 43.565 39.599
+\i (00:24:03) trapsize 172
+\i (00:24:03) zoom in 1 
+\i (00:24:03) setwindow pcb
+\i (00:24:03) zoom in 43.566 39.600
+\i (00:24:03) trapsize 86
+\i (00:24:03) zoom in 1 
+\i (00:24:03) setwindow pcb
+\i (00:24:03) zoom in 43.566 39.600
+\i (00:24:03) trapsize 43
+\i (00:24:03) zoom in 1 
+\i (00:24:03) setwindow pcb
+\i (00:24:03) zoom in 43.566 39.600
+\i (00:24:03) trapsize 21
+\i (00:24:03) zoom out 1 
+\i (00:24:03) setwindow pcb
+\i (00:24:03) zoom out 40.117 39.691
+\i (00:24:03) trapsize 43
+\i (00:24:05) zoom out 1 
+\i (00:24:05) setwindow pcb
+\i (00:24:05) zoom out 41.399 39.399
+\i (00:24:05) trapsize 86
+\i (00:24:05) zoom out 1 
+\i (00:24:05) setwindow pcb
+\i (00:24:05) zoom out 41.417 39.399
+\i (00:24:05) trapsize 172
+\i (00:24:06) zoom out 1 
+\i (00:24:06) setwindow pcb
+\i (00:24:06) zoom out 31.028 37.747
+\i (00:24:06) trapsize 344
+\i (00:24:06) zoom out 1 
+\i (00:24:06) setwindow pcb
+\i (00:24:06) zoom out 31.028 37.747
+\i (00:24:06) trapsize 688
+\i (00:24:07) roam start
+\i (00:24:07) roam x -16
+\i (00:24:07) roam x -96
+\i (00:24:07) roam y -16
+\i (00:24:07) roam x -80
+\i (00:24:07) roam y -16
+\i (00:24:08) roam x -32
+\i (00:24:08) roam x -32
+\i (00:24:08) roam x -16
+\i (00:24:08) roam x -32
+\i (00:24:08) roam x -32
+\i (00:24:08) roam x -32
+\i (00:24:09) roam end
+\i (00:24:09) zoom in 1 
+\i (00:24:09) setwindow pcb
+\i (00:24:09) zoom in 41.225 34.070
+\i (00:24:09) trapsize 344
+\i (00:24:09) zoom in 1 
+\i (00:24:09) setwindow pcb
+\i (00:24:09) zoom in 39.987 36.340
+\i (00:24:09) trapsize 172
+\i (00:24:09) zoom in 1 
+\i (00:24:10) setwindow pcb
+\i (00:24:10) zoom in 39.128 36.581
+\i (00:24:10) trapsize 86
+\i (00:24:10) zoom in 1 
+\i (00:24:10) setwindow pcb
+\i (00:24:10) zoom in 39.111 36.581
+\i (00:24:10) trapsize 43
+\i (00:24:10) zoom out 1 
+\i (00:24:10) setwindow pcb
+\i (00:24:10) zoom out 39.102 36.581
+\i (00:24:10) trapsize 86
+\i (00:24:10) zoom out 1 
+\i (00:24:11) setwindow pcb
+\i (00:24:11) zoom out 39.051 36.599
+\i (00:24:11) trapsize 172
+\i (00:24:11) zoom out 1 
+\i (00:24:11) setwindow pcb
+\i (00:24:11) zoom out 38.364 37.183
+\i (00:24:11) trapsize 344
+\i (00:24:12) roam start
+\i (00:24:12) roam x 64
+\i (00:24:12) roam x 48
+\i (00:24:12) roam x 48
+\i (00:24:13) roam x -96
+\i (00:24:13) roam x -64
+\i (00:24:13) roam x -16
+\i (00:24:13) roam x -32
+\i (00:24:13) roam x -16
+\i (00:24:13) roam x -16
+\i (00:24:13) roam x -64
+\i (00:24:13) roam x -64
+\i (00:24:13) roam x -16
+\i (00:24:13) roam x -16
+\i (00:24:13) roam x -16
+\i (00:24:13) roam x -80
+\i (00:24:13) roam x -64
+\i (00:24:13) roam x 16
+\i (00:24:13) roam x 16
+\i (00:24:13) roam x 16
+\i (00:24:13) roam y 16
+\i (00:24:14) roam x 16
+\i (00:24:14) roam y 16
+\i (00:24:14) roam y 16
+\i (00:24:14) roam y 16
+\i (00:24:14) roam x 16
+\i (00:24:14) roam x 16
+\i (00:24:14) roam y -16
+\i (00:24:14) roam y -16
+\i (00:24:15) roam end
+\i (00:24:35) pick grid 60.763 13.568
+\t (00:24:35) last pick:  60.706 13.589
+\i (00:25:13) pick grid 84.016 45.627
+\t (00:25:13) last pick:  84.074 45.593
+\i (00:26:22) pick grid -5.282 32.212
+\t (00:26:22) last pick:  -5.334 32.258
+\i (00:26:44) pick grid -1.292 44.664
+\t (00:26:44) last pick:  -1.270 44.704
+\i (00:26:49) pick grid 6.345 43.839
+\t (00:26:49) last pick:  6.350 43.815
+\i (00:26:50) prepopup 6.414 43.839
+\i (00:26:56) prepopup 4.281 44.940
+\i (00:26:59) pick grid 4.212 44.940
+\t (00:26:59) last pick:  4.191 44.958
+\i (00:27:10) prmed 
+\i (00:27:11) setwindow form.prmedit
+\i (00:27:11) FORM prmedit design  
+\i (00:27:12) FORM prmedit cancel  
+\i (00:27:12) setwindow pcb
+\i (00:27:12) signalintegrity 
+\i (00:27:23) place manual 
+\t (00:27:23) Selected item not valid for current operation, ignored: Mechanical Pin "Mtg125."
+\t (00:27:23) No valid items selected for the current operation, exiting.
+\i (00:27:23) signalintegrity 
+\i (00:27:27) place manual 
+\t (00:27:27) Selected item not valid for current operation, ignored: Mechanical Pin "Mtg125."
+\t (00:27:27) No valid items selected for the current operation, exiting.
+\i (00:27:27) signalintegrity 
+\i (00:27:30) zoom out 1 
+\i (00:27:30) setwindow pcb
+\i (00:27:30) zoom out 18.247 1.598
+\i (00:27:30) trapsize 688
+\i (00:27:31) zoom in 1 
+\i (00:27:31) setwindow pcb
+\i (00:27:31) zoom in 8.615 26.089
+\i (00:27:31) trapsize 344
+\i (00:27:31) zoom in 1 
+\i (00:27:31) setwindow pcb
+\i (00:27:31) zoom in 8.615 26.089
+\i (00:27:31) trapsize 172
+\i (00:27:32) zoom out 1 
+\i (00:27:32) setwindow pcb
+\i (00:27:32) zoom out 11.608 26.021
+\i (00:27:32) trapsize 344
+\i (00:27:33) zoom out 1 
+\i (00:27:33) setwindow pcb
+\i (00:27:33) zoom out -7.655 31.593
+\i (00:27:33) trapsize 688
+\i (00:27:34) drag_start grid -4.903 8.203
+\i (00:27:34) drag_stop -1.050 13.569
+\i (00:27:39) place manual 
+\i (00:27:41) setwindow form.plc_manual
+\i (00:27:41) FORM plc_manual tree  'Components by refdes' 
+\i (00:27:43) FORM plc_manual categories Package symbols 
+\i (00:27:44) FORM plc_manual tree  CAP196 'Package symbols' 
+\i (00:27:45) FORM plc_manual categories Components by refdes 
+\i (00:27:46) FORM plc_manual advanced_settings  
+\i (00:27:47) FORM plc_manual library YES 
+\i (00:27:47) FORM plc_manual library NO 
+\i (00:27:48) FORM plc_manual library YES 
+\i (00:27:48) FORM plc_manual placement_list  
+\i (00:27:49) FORM plc_manual tree  'Components by refdes' 
+\i (00:27:56) FORM plc_manual categories Mechanical symbols 
+\i (00:27:57) FORM plc_manual tree  EUROD 'Mechanical symbols' 
+\i (00:27:58) FORM plc_manual tree 'MULTISEL YES' EUROD 'Mechanical symbols' 
+\w (00:27:58) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:28:00) FORM plc_manual tree  EUROS 'Mechanical symbols' 
+\i (00:28:01) FORM plc_manual tree 'MULTISEL NO' EUROD 'Mechanical symbols' 
+\i (00:28:01) FORM plc_manual tree  EUROD 'Mechanical symbols' 
+\i (00:28:02) FORM plc_manual tree  MTG125 'Mechanical symbols' 
+\i (00:28:02) FORM plc_manual tree 'MULTISEL YES' MTG125 'Mechanical symbols' 
+\i (00:28:08) FORM plc_manual done  
+\i (00:28:09) setwindow pcb
+\i (00:28:09) signalintegrity 
+\i (00:28:10) pick grid 5.829 6.001
+\t (00:28:10) last pick:  5.842 5.969
+\i (00:28:12) place manual 
+\i (00:28:14) setwindow form.plc_manual
+\i (00:28:14) FORM plc_manual tree 'MULTISEL YES' MTG125 'Mechanical symbols' 
+\i (00:28:14) FORM plc_manual tree  MTG125 'Mechanical symbols' 
+\i (00:28:19) setwindow pcb
+\i (00:28:19) pick grid 4.729 5.313
+\t (00:28:19) last pick:  4.445 5.080
+\i (00:28:22) pick grid 64.307 45.491
+\t (00:28:22) last pick:  64.135 45.720
+\i (00:28:24) setwindow form.plc_manual
+\i (00:28:24) FORM plc_manual tree 'MULTISEL YES' MTG156 'Mechanical symbols' 
+\w (00:28:24) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:28:24) FORM plc_manual tree  MTG156 'Mechanical symbols' 
+\i (00:28:25) FORM plc_manual tree 'MULTISEL YES' MTG125 'Mechanical symbols' 
+\i (00:28:25) FORM plc_manual tree  MTG125 'Mechanical symbols' 
+\i (00:28:27) setwindow pcb
+\i (00:28:27) pick grid 64.582 45.215
+\t (00:28:27) last pick:  64.770 45.085
+\i (00:28:29) pick grid 65.270 4.488
+\t (00:28:29) last pick:  65.405 4.445
+\i (00:28:33) prepopup 48.759 69.019
+\i (00:28:34) oops 
+\t (00:28:34) last pick:  64.770 45.085
+\i (00:28:36) pick grid 63.343 6.552
+\t (00:28:36) last pick:  63.500 6.350
+\i (00:28:39) prepopup 31.697 77.000
+\i (00:28:40) oops 
+\t (00:28:40) last pick:  64.770 45.085
+\i (00:28:41) pick grid 64.169 6.552
+\t (00:28:41) last pick:  64.135 6.350
+\i (00:28:44) setwindow form.plc_manual
+\i (00:28:44) FORM plc_manual cancel  
+\i (00:28:44) setwindow pcb
+\i (00:28:44) signalintegrity 
+\i (00:28:48) place manual 
+\i (00:28:49) setwindow form.plc_manual
+\i (00:28:49) FORM plc_manual tree 'MULTISEL YES' MTG125 'Mechanical symbols' 
+\i (00:28:49) FORM plc_manual tree  MTG125 'Mechanical symbols' 
+\i (00:28:53) setwindow pcb
+\i (00:28:53) pick grid 64.307 44.803
+\t (00:28:53) last pick:  64.135 45.085
+\i (00:28:55) prepopup 82.056 66.542
+\i (00:28:56) oops 
+\i (00:28:56) zoom in 1 
+\i (00:28:56) setwindow pcb
+\i (00:28:56) zoom in 63.619 43.977
+\i (00:28:56) trapsize 344
+\i (00:28:56) zoom in 1 
+\i (00:28:56) setwindow pcb
+\i (00:28:56) zoom in 64.857 44.871
+\i (00:28:56) trapsize 172
+\i (00:28:58) pick grid 65.201 45.422
+\t (00:28:58) last pick:  65.405 45.720
+\i (00:28:59) prepopup 71.840 45.800
+\i (00:29:00) oops 
+\i (00:29:01) pick grid 64.169 45.387
+\t (00:29:01) last pick:  64.135 45.085
+\i (00:29:02) prepopup 70.498 45.078
+\i (00:29:02) oops 
+\i (00:29:04) pick grid 63.825 45.250
+\t (00:29:04) last pick:  64.135 45.085
+\i (00:29:05) pick grid 65.029 45.112
+\t (00:29:05) last pick:  64.770 45.085
+\t (00:29:05) last pick:  64.135 45.085
+\i (00:29:05) pick grid 65.098 45.112
+\t (00:29:05) last pick:  65.405 45.085
+\i (00:29:06) pick grid 64.891 45.112
+\t (00:29:06) last pick:  64.770 45.085
+\t (00:29:06) last pick:  65.405 45.085
+\i (00:29:07) pick grid 64.891 45.112
+\t (00:29:07) last pick:  64.770 45.085
+\i (00:29:08) zoom out 1 
+\i (00:29:08) setwindow pcb
+\i (00:29:08) zoom out 64.754 43.151
+\i (00:29:08) trapsize 344
+\i (00:29:08) zoom out 1 
+\i (00:29:08) setwindow pcb
+\i (00:29:08) zoom out 64.754 42.808
+\i (00:29:08) trapsize 688
+\i (00:29:08) zoom out 1 
+\i (00:29:08) setwindow pcb
+\i (00:29:08) zoom out 64.754 42.119
+\i (00:29:08) trapsize 1376
+\i (00:29:09) zoom in 1 
+\i (00:29:09) setwindow pcb
+\i (00:29:09) zoom in 62.001 -0.259
+\i (00:29:09) trapsize 688
+\i (00:29:09) zoom in 1 
+\i (00:29:09) setwindow pcb
+\i (00:29:09) zoom in 64.203 8.684
+\i (00:29:09) trapsize 344
+\i (00:29:09) zoom in 1 
+\i (00:29:09) setwindow pcb
+\i (00:29:09) zoom in 63.240 8.409
+\i (00:29:09) trapsize 172
+\i (00:29:09) zoom in 1 
+\i (00:29:09) setwindow pcb
+\i (00:29:09) zoom in 63.309 8.375
+\i (00:29:09) trapsize 86
+\i (00:29:10) zoom out 1 
+\i (00:29:10) setwindow pcb
+\i (00:29:10) zoom out 64.754 6.415
+\i (00:29:10) trapsize 172
+\i (00:29:10) zoom out 1 
+\i (00:29:10) setwindow pcb
+\i (00:29:10) zoom out 64.650 6.483
+\i (00:29:10) trapsize 344
+\i (00:29:10) pick grid 63.480 5.108
+\t (00:29:10) last pick:  63.500 5.080
+\i (00:29:11) pick grid 64.375 4.695
+\t (00:29:11) last pick:  64.135 4.445
+\i (00:29:12) setwindow form.plc_manual
+\i (00:29:12) FORM plc_manual tree 'MULTISEL YES' MTG125 'Mechanical symbols' 
+\i (00:29:13) setwindow pcb
+\i (00:29:13) pick grid 63.824 5.933
+\t (00:29:13) last pick:  64.135 5.715
+\i (00:29:14) pick grid 64.719 5.589
+\t (00:29:14) last pick:  64.770 5.715
+\t (00:29:14) last pick:  64.135 5.715
+\i (00:29:14) pick grid dbl 64.719 5.589
+\t (00:29:14) last pick:  64.770 5.715
+\i (00:29:16) pick grid 64.581 5.451
+\t (00:29:16) last pick:  64.770 5.715
+\t (00:29:16) last pick:  64.770 5.715
+\i (00:29:16) pick grid 64.788 5.245
+\t (00:29:16) last pick:  64.770 5.080
+\i (00:29:18) setwindow form.plc_manual
+\i (00:29:18) FORM plc_manual cancel  
+\i (00:29:18) setwindow pcb
+\i (00:29:18) signalintegrity 
+\i (00:29:22) zoom out 1 
+\i (00:29:22) setwindow pcb
+\i (00:29:22) zoom out 47.451 18.248
+\i (00:29:22) trapsize 688
+\i (00:29:23) roam start
+\i (00:29:23) roam x -16
+\i (00:29:23) roam x -128
+\i (00:29:23) roam x -96
+\i (00:29:23) roam end
+\i (00:29:24) zoom in 1 
+\i (00:29:24) setwindow pcb
+\i (00:29:24) zoom in 7.101 14.395
+\i (00:29:24) trapsize 344
+\i (00:29:24) zoom in 1 
+\i (00:29:24) setwindow pcb
+\i (00:29:24) zoom in 6.895 16.184
+\i (00:29:24) trapsize 172
+\i (00:29:25) zoom out 1 
+\i (00:29:25) setwindow pcb
+\i (00:29:25) zoom out 4.866 21.654
+\i (00:29:25) trapsize 344
+\i (00:29:25) zoom out 1 
+\i (00:29:25) setwindow pcb
+\i (00:29:25) zoom out 4.796 22.273
+\i (00:29:25) trapsize 688
+\i (00:29:41) prepopup 105.790 37.271
+\i (00:29:45) place manual 
+\i (00:29:47) setwindow form.plc_manual
+\i (00:29:47) FORM plc_manual tree 'MULTISEL YES' MTG125 'Mechanical symbols' 
+\i (00:29:47) FORM plc_manual tree  MTG125 'Mechanical symbols' 
+\i (00:29:49) setwindow pcb
+\i (00:29:49) zoom in 1 
+\i (00:29:49) setwindow pcb
+\i (00:29:49) zoom in -1.670 43.050
+\i (00:29:49) trapsize 344
+\i (00:29:49) zoom in 1 
+\i (00:29:49) setwindow pcb
+\i (00:29:49) zoom in 0.600 44.013
+\i (00:29:49) trapsize 172
+\i (00:29:50) pick grid 5.279 44.736
+\t (00:29:50) last pick:  5.080 44.450
+\i (00:29:51) pick grid 5.760 42.087
+\t (00:29:51) last pick:  5.715 41.910
+\t (00:29:51) last pick:  5.080 43.180
+\i (00:29:52) zoom out 1 
+\i (00:29:53) setwindow pcb
+\i (00:29:53) zoom out 6.139 42.018
+\i (00:29:53) trapsize 344
+\i (00:29:53) zoom out 1 
+\i (00:29:53) setwindow pcb
+\i (00:29:53) zoom out 6.001 41.812
+\i (00:29:53) trapsize 688
+\i (00:29:54) zoom in 1 
+\i (00:29:54) setwindow pcb
+\i (00:29:54) zoom in 7.652 2.873
+\i (00:29:54) trapsize 344
+\i (00:29:54) zoom in 1 
+\i (00:29:54) setwindow pcb
+\i (00:29:54) zoom in 6.483 3.217
+\i (00:29:54) trapsize 172
+\i (00:29:55) pick grid 4.729 4.937
+\t (00:29:55) last pick:  4.445 5.080
+\i (00:29:55) pick grid dbl 4.694 5.178
+\t (00:29:55) last pick:  4.445 5.080
+\t (00:29:55) last pick:  4.445 5.080
+\i (00:29:57) setwindow form.plc_manual
+\i (00:29:57) FORM plc_manual tree 'MULTISEL YES' MTG125 'Mechanical symbols' 
+\i (00:29:59) setwindow pcb
+\i (00:29:59) pick grid 5.279 5.419
+\t (00:29:59) last pick:  5.080 5.715
+\i (00:30:00) pick grid 4.866 5.006
+\t (00:30:00) last pick:  5.080 5.080
+\t (00:30:00) last pick:  4.445 5.080
+\i (00:30:01) pick grid 4.866 5.006
+\t (00:30:01) last pick:  5.080 5.080
+\i (00:30:02) pick grid 4.969 5.075
+\t (00:30:02) last pick:  5.080 5.080
+\t (00:30:02) last pick:  5.080 5.080
+\i (00:30:02) pick grid 4.969 5.075
+\t (00:30:02) last pick:  5.080 5.080
+\i (00:30:03) pick grid 4.969 5.178
+\t (00:30:03) last pick:  5.080 5.080
+\t (00:30:03) last pick:  5.080 5.080
+\i (00:30:03) pick grid 5.176 6.072
+\t (00:30:03) last pick:  5.080 6.350
+\i (00:30:03) pick grid 5.176 5.831
+\t (00:30:03) last pick:  5.080 5.715
+\t (00:30:04) last pick:  5.080 5.715
+\i (00:30:04) pick grid 5.210 5.831
+\t (00:30:04) last pick:  5.080 5.715
+\i (00:30:04) pick grid 5.210 5.935
+\t (00:30:04) last pick:  5.080 5.715
+\t (00:30:04) last pick:  5.080 5.715
+\i (00:30:05) pick grid 5.141 5.384
+\t (00:30:05) last pick:  5.080 5.080
+\i (00:30:05) pick grid dbl 5.141 5.247
+\t (00:30:05) last pick:  5.080 5.080
+\t (00:30:05) last pick:  5.080 5.080
+\i (00:30:06) pick grid 5.141 5.247
+\t (00:30:06) last pick:  5.080 5.080
+\i (00:30:06) pick grid dbl 5.141 5.247
+\t (00:30:06) last pick:  5.080 5.080
+\t (00:30:06) last pick:  5.080 5.080
+\i (00:30:06) pick grid 5.176 6.726
+\t (00:30:06) last pick:  5.080 6.985
+\i (00:30:07) pick grid 5.279 6.313
+\t (00:30:07) last pick:  5.080 6.350
+\t (00:30:07) last pick:  5.080 6.350
+\i (00:30:07) pick grid 5.245 6.003
+\t (00:30:07) last pick:  5.080 5.715
+\i (00:30:08) pick grid 5.245 5.659
+\t (00:30:08) last pick:  5.080 5.715
+\t (00:30:08) last pick:  5.080 5.715
+\i (00:30:08) prepopup 5.313 6.107
+\i (00:30:09) oops 
+\t (00:30:09) last pick:  5.080 5.715
+\i (00:30:11) pick grid 5.348 4.834
+\t (00:30:11) last pick:  5.080 5.080
+\t (00:30:11) last pick:  5.080 5.715
+\i (00:30:11) pick grid 5.417 4.731
+\t (00:30:11) last pick:  5.715 4.445
+\i (00:30:12) pick grid 4.350 4.559
+\t (00:30:12) last pick:  4.445 4.445
+\t (00:30:12) last pick:  5.715 4.445
+\i (00:30:12) pick grid 4.350 4.765
+\t (00:30:12) last pick:  4.445 5.080
+\i (00:30:13) pick grid 5.485 5.522
+\t (00:30:13) last pick:  5.715 5.715
+\t (00:30:13) last pick:  4.445 5.080
+\i (00:30:13) pick grid 5.485 5.522
+\t (00:30:13) last pick:  5.715 5.715
+\i (00:30:14) pick grid 5.038 5.625
+\t (00:30:14) last pick:  5.080 5.715
+\t (00:30:14) last pick:  5.715 5.715
+\i (00:30:14) pick grid 4.969 5.315
+\t (00:30:14) last pick:  5.080 5.080
+\i (00:30:16) prepopup 6.001 8.446
+\i (00:30:22) zoom out 1 
+\i (00:30:22) setwindow pcb
+\i (00:30:22) zoom out 35.412 7.999
+\i (00:30:22) trapsize 344
+\i (00:30:23) zoom out 1 
+\i (00:30:23) setwindow pcb
+\i (00:30:23) zoom out 40.297 5.315
+\i (00:30:23) trapsize 688
+\i (00:30:24) zoom in 1 
+\i (00:30:24) setwindow pcb
+\i (00:30:24) zoom in 65.579 4.627
+\i (00:30:24) trapsize 344
+\i (00:30:24) zoom in 1 
+\i (00:30:24) setwindow pcb
+\i (00:30:24) zoom in 65.855 4.627
+\i (00:30:24) trapsize 172
+\i (00:30:25) pick grid 64.307 5.384
+\t (00:30:25) last pick:  64.135 5.080
+\t (00:30:25) last pick:  64.770 5.715
+\i (00:30:25) pick grid 64.479 5.384
+\t (00:30:25) last pick:  64.770 5.080
+\i (00:30:31) zoom in 1 
+\i (00:30:31) setwindow pcb
+\i (00:30:31) zoom in 50.548 1.359
+\i (00:30:31) trapsize 86
+\i (00:30:31) zoom in 1 
+\i (00:30:31) setwindow pcb
+\i (00:30:31) zoom in 50.531 1.394
+\i (00:30:31) trapsize 43
+\i (00:30:31) zoom in 1 
+\i (00:30:31) setwindow pcb
+\i (00:30:31) zoom in 49.697 1.575
+\i (00:30:31) trapsize 21
+\i (00:30:31) zoom in 1 
+\i (00:30:31) setwindow pcb
+\i (00:30:31) zoom in 49.671 1.584
+\i (00:30:31) trapsize 11
+\i (00:30:31) zoom out 1 
+\i (00:30:31) setwindow pcb
+\i (00:30:31) zoom out 49.648 1.590
+\i (00:30:31) trapsize 21
+\i (00:30:31) zoom out 1 
+\i (00:30:31) setwindow pcb
+\i (00:30:31) zoom out 49.639 1.591
+\i (00:30:31) trapsize 43
+\i (00:30:31) zoom out 1 
+\i (00:30:31) setwindow pcb
+\i (00:30:31) zoom out 49.526 1.581
+\i (00:30:31) trapsize 86
+\i (00:30:31) zoom out 1 
+\i (00:30:31) setwindow pcb
+\i (00:30:31) zoom out 49.165 1.582
+\i (00:30:31) trapsize 172
+\i (00:30:31) zoom out 1 
+\i (00:30:31) setwindow pcb
+\i (00:30:31) zoom out 45.176 3.508
+\i (00:30:31) trapsize 344
+\i (00:30:32) zoom out 1 
+\i (00:30:32) setwindow pcb
+\i (00:30:32) zoom out 42.286 4.747
+\i (00:30:32) trapsize 688
+\i (00:30:34) prepopup 51.367 19.744
+\i (00:30:36) pick grid 103.927 24.285
+\t (00:30:36) last pick:  104.140 24.130
+\i (00:30:36) roam start
+\i (00:30:37) roam x -80
+\i (00:30:37) roam x -48
+\i (00:30:37) roam y -16
+\i (00:30:37) roam x -64
+\i (00:30:37) roam x -16
+\i (00:30:37) roam x -32
+\i (00:30:37) roam x -16
+\i (00:30:37) roam end
+\i (00:30:38) zoom in 1 
+\i (00:30:38) setwindow pcb
+\i (00:30:38) zoom in -1.843 3.524
+\i (00:30:38) trapsize 344
+\i (00:30:38) zoom in 1 
+\i (00:30:38) setwindow pcb
+\i (00:30:38) zoom in -1.154 3.662
+\i (00:30:38) trapsize 172
+\i (00:30:39) prepopup 6.586 8.203
+\i (00:30:40) pick grid 0.188 9.098
+\t (00:30:40) last pick:  0.000 8.890
+\i (00:30:40) prepopup -0.913 8.926
+\i (00:30:41) done 
+\i (00:30:41) signalintegrity 
+\i (00:30:41) pick grid 4.075 8.375
+\t (00:30:41) last pick:  4.064 8.382
+\i (00:30:42) delete 
+\t (00:30:42) Selected item not valid for current operation, ignored: Mechanical Pin "Mtg125."
+\t (00:30:42) No valid items selected for the current operation, exiting.
+\i (00:30:42) signalintegrity 
+\i (00:30:43) pick grid 6.139 8.134
+\t (00:30:43) last pick:  6.096 8.128
+\i (00:30:43) pick grid 6.104 8.031
+\t (00:30:43) last pick:  6.096 8.001
+\i (00:30:45) pick grid -1.222 8.994
+\t (00:30:45) last pick:  -1.270 9.017
+\i (00:30:45) pick grid 6.139 7.206
+\t (00:30:45) last pick:  6.096 7.239
+\i (00:30:46) delete 
+\t (00:30:46) Selected item not valid for current operation, ignored: Mechanical Pin "Mtg125."
+\t (00:30:46) No valid items selected for the current operation, exiting.
+\i (00:30:46) signalintegrity 
+\i (00:30:47) pick grid 5.382 7.137
+\t (00:30:47) last pick:  5.334 7.112
+\i (00:30:47) pick grid -1.326 8.306
+\t (00:30:47) last pick:  -1.270 8.255
+\i (00:30:48) prepopup 5.657 7.102
+\i (00:30:49) pop dyn_option_select @:@Spin 
+\i (00:30:49) spin 
+\i (00:30:50) prepopup 5.829 7.481
+\i (00:30:51) done 
+\i (00:30:51) signalintegrity 
+\i (00:30:52) prepopup 4.178 7.756
+\i (00:30:53) pop dyn_option_select @:@Move 
+\i (00:30:53) move 
+\t (00:30:54) last pick:  4.191 7.747
+\t (00:30:54) last pick:  5.080 6.985
+\t (00:30:54) Pick new location for the element(s).
+\i (00:30:55) pick grid 6.586 -6.485
+\t (00:30:55) last pick:  6.604 -6.477
+\i (00:30:55) signalintegrity 
+\i (00:30:57) pick grid 6.689 9.510
+\t (00:30:57) last pick:  6.731 9.525
+\i (00:30:57) drag_start grid 6.552 9.510
+\i (00:30:57) move 
+\t (00:30:57) last pick:  6.604 9.525
+\t (00:30:57) Element has no origin, using pick.
+\t (00:30:57) Pick new location for the element(s).
+\i (00:30:57) drag_stop grid 6.414 8.547
+\i (00:30:58) signalintegrity 
+\i (00:31:00) undo 
+\i (00:31:00) trapsize 172
+\i (00:31:00) signalintegrity 
+\i (00:31:00) undo 
+\i (00:31:00) trapsize 172
+\i (00:31:00) signalintegrity 
+\i (00:31:01) undo 
+\i (00:31:01) trapsize 172
+\i (00:31:01) signalintegrity 
+\i (00:31:03) zoom out 1 
+\i (00:31:03) setwindow pcb
+\i (00:31:03) zoom out 16.768 2.390
+\i (00:31:03) trapsize 344
+\i (00:31:05) pick grid 6.242 8.031
+\t (00:31:05) last pick:  6.223 8.001
+\i (00:31:06) pick grid 6.104 9.269
+\t (00:31:06) last pick:  6.096 9.271
+\i (00:31:08) undo 
+\i (00:31:08) trapsize 172
+\i (00:31:08) signalintegrity 
+\i (00:31:09) prepopup 6.001 8.203
+\i (00:31:12) delete 
+\t (00:31:12) Selected item not valid for current operation, ignored: Mechanical Pin "Mtg125."
+\t (00:31:12) No valid items selected for the current operation, exiting.
+\i (00:31:12) signalintegrity 
+\i (00:31:12) pick grid 5.038 7.928
+\t (00:31:12) last pick:  5.080 7.874
+\i (00:31:13) drag_start grid 4.247 8.960
+\i (00:31:13) drag_stop 5.520 7.274
+\i (00:31:13) drag_start grid 4.797 8.203
+\i (00:31:13) move 
+\t (00:31:13) last pick:  5.080 6.985
+\t (00:31:13) Pick new location for the element(s).
+\i (00:31:13) drag_stop grid 6.036 7.412
+\i (00:31:14) signalintegrity 
+\i (00:31:16) undo 
+\i (00:31:16) trapsize 172
+\i (00:31:16) signalintegrity 
+\i (00:31:16) delete 
+\t (00:31:16) Selected item not valid for current operation, ignored: Symbol "Mtg125"
+\t (00:31:16) No valid items selected for the current operation, exiting.
+\i (00:31:16) signalintegrity 
+\i (00:31:17) drag_start grid 3.593 8.616
+\i (00:31:17) move 
+\t (00:31:17) last pick:  5.080 6.985
+\t (00:31:17) Pick new location for the element(s).
+\i (00:31:17) drag_stop grid 5.004 7.584
+\i (00:31:17) signalintegrity 
+\i (00:31:18) pick grid 5.588 7.137
+\t (00:31:18) last pick:  5.588 7.112
+\i (00:31:19) undo 
+\i (00:31:19) trapsize 172
+\i (00:31:19) signalintegrity 
+\i (00:31:36) place manual 
+\t (00:31:36) last pick:  5.080 6.985
+\i (00:31:53) setwindow form.mini
+\i (00:31:53) FORM mini class ROUTE KEEPOUT 
+\i (00:31:55) setwindow pcb
+\i (00:31:55) zoom out 1 
+\i (00:31:55) setwindow pcb
+\i (00:31:55) zoom out 25.849 8.547
+\i (00:31:55) trapsize 344
+\i (00:31:55) zoom out 1 
+\i (00:31:55) setwindow pcb
+\i (00:31:55) zoom out 19.451 8.823
+\i (00:31:55) trapsize 688
+\i (00:31:57) roam start
+\i (00:31:57) roam y -48
+\i (00:31:57) roam y -80
+\i (00:31:57) roam y -32
+\i (00:31:57) roam end
+\i (00:31:58) zoom in 1 
+\i (00:31:58) setwindow pcb
+\i (00:31:58) zoom in 25.264 27.740
+\i (00:31:58) trapsize 344
+\i (00:31:59) zoom out 1 
+\i (00:31:59) setwindow pcb
+\i (00:31:59) zoom out 24.094 28.704
+\i (00:31:59) trapsize 688
+\i (00:32:03) place manual 
+\i (00:32:09) place manual 
+\i (00:32:13) setwindow form.mini
+\i (00:32:13) FORM mini class ROUTE KEEPOUT 
+\i (00:32:17) setwindow form.plc_manual
+\i (00:32:17) FORM plc_manual tree 'MULTISEL YES' MTG125 'Mechanical symbols' 
+\i (00:32:17) FORM plc_manual tree  MTG125 'Mechanical symbols' 
+\i (00:32:20) setwindow pcb
+\i (00:32:20) pick grid 4.694 6.138
+\t (00:32:20) last pick:  4.445 6.350
+\i (00:32:20) pick grid 5.795 7.102
+\t (00:32:20) last pick:  5.715 6.985
+\t (00:32:20) last pick:  5.080 6.985
+\i (00:32:21) pick grid 6.620 5.313
+\t (00:32:21) last pick:  6.350 5.080
+\i (00:32:21) pick grid dbl 6.483 5.175
+\t (00:32:21) last pick:  6.350 5.080
+\t (00:32:21) last pick:  6.350 5.080
+\i (00:32:22) pick grid 5.382 5.726
+\t (00:32:22) last pick:  5.080 5.715
+\i (00:32:22) pick grid dbl 4.969 5.726
+\t (00:32:22) last pick:  5.080 5.715
+\t (00:32:22) last pick:  5.080 5.715
+\i (00:32:23) pick grid 4.694 5.038
+\t (00:32:23) last pick:  4.445 5.080
+\i (00:32:23) pick grid 3.731 5.038
+\t (00:32:23) last pick:  3.810 5.080
+\t (00:32:23) last pick:  4.445 5.080
+\i (00:32:24) pick grid 3.731 5.450
+\t (00:32:24) last pick:  3.810 5.715
+\i (00:32:24) pick grid 5.107 6.964
+\t (00:32:24) last pick:  5.080 6.985
+\t (00:32:24) last pick:  4.445 6.350
+\i (00:32:25) pick grid 5.382 6.001
+\t (00:32:25) last pick:  5.080 5.715
+\i (00:32:25) pick grid 5.244 5.313
+\t (00:32:25) last pick:  5.080 5.080
+\t (00:32:25) last pick:  5.080 5.080
+\i (00:32:26) pick grid 5.519 5.313
+\t (00:32:26) last pick:  5.715 5.080
+\i (00:32:27) pick grid 5.382 5.313
+\t (00:32:27) last pick:  5.080 5.080
+\t (00:32:27) last pick:  5.715 5.080
+\i (00:32:27) pick grid dbl 5.382 5.313
+\t (00:32:27) last pick:  5.080 5.080
+\i (00:32:27) pick grid 5.382 5.313
+\t (00:32:27) last pick:  5.080 5.080
+\t (00:32:27) last pick:  5.080 5.080
+\i (00:32:28) zoom in 1 
+\i (00:32:28) setwindow pcb
+\i (00:32:28) zoom in 4.281 6.276
+\i (00:32:28) trapsize 344
+\i (00:32:28) zoom in 1 
+\i (00:32:28) setwindow pcb
+\i (00:32:28) zoom in 4.282 6.276
+\i (00:32:28) trapsize 172
+\i (00:32:28) zoom in 1 
+\i (00:32:28) setwindow pcb
+\i (00:32:28) zoom in 4.351 5.966
+\i (00:32:28) trapsize 86
+\i (00:32:29) pick grid 5.469 5.777
+\t (00:32:29) last pick:  5.715 5.715
+\i (00:32:29) pick grid 5.039 5.880
+\t (00:32:29) last pick:  5.080 5.715
+\t (00:32:29) last pick:  5.080 5.715
+\i (00:32:30) pick grid 5.400 5.760
+\t (00:32:30) last pick:  5.715 5.715
+\i (00:32:31) pick grid 4.884 5.880
+\t (00:32:31) last pick:  5.080 5.715
+\t (00:32:31) last pick:  5.715 5.715
+\i (00:32:32) setwindow form.plc_manual
+\i (00:32:32) FORM plc_manual tree 'MULTISEL YES' MTG125 'Mechanical symbols' 
+\i (00:32:33) setwindow pcb
+\i (00:32:33) pick grid 5.349 6.345
+\t (00:32:33) last pick:  5.080 6.350
+\i (00:32:33) pick grid 4.902 5.605
+\t (00:32:33) last pick:  5.080 5.715
+\t (00:32:33) last pick:  5.080 6.350
+\i (00:32:35) pick grid 4.042 5.639
+\t (00:32:35) last pick:  3.810 5.715
+\i (00:32:35) pick grid 3.853 5.674
+\t (00:32:35) last pick:  3.810 5.715
+\t (00:32:35) last pick:  3.810 5.715
+\i (00:32:36) pick grid 3.853 5.674
+\t (00:32:36) last pick:  3.810 5.715
+\i (00:32:37) pick grid dbl 3.853 5.674
+\t (00:32:37) last pick:  3.810 5.715
+\t (00:32:37) last pick:  3.810 5.715
+\i (00:32:37) pick grid 5.435 5.657
+\t (00:32:37) last pick:  5.715 5.715
+\i (00:32:38) pick grid dbl 5.727 5.639
+\t (00:32:38) last pick:  5.715 5.715
+\t (00:32:38) last pick:  5.715 5.715
+\i (00:32:41) setwindow form.plc_manual
+\i (00:32:41) FORM plc_manual tree 'MULTISEL YES' MTG125 'Mechanical symbols' 
+\i (00:32:42) setwindow pcb
+\i (00:32:42) pick grid 4.093 5.983
+\t (00:32:42) last pick:  3.810 5.715
+\i (00:32:43) pick grid 3.784 5.829
+\t (00:32:43) last pick:  3.810 5.715
+\t (00:32:43) last pick:  3.810 5.715
+\i (00:32:44) setwindow form.plc_manual
+\i (00:32:44) FORM plc_manual cancel  
+\i (00:32:44) setwindow pcb
+\i (00:32:44) signalintegrity 
+\i (00:32:45) pick grid 6.381 6.087
+\t (00:32:45) last pick:  6.350 6.096
+\i (00:32:45) prepopup 6.123 6.018
+\i (00:32:47) pop dyn_option_select @:@Move 
+\i (00:32:47) move 
+\t (00:32:48) last pick:  6.096 5.969
+\t (00:32:48) last pick:  5.715 5.715
+\t (00:32:48) Pick new location for the element(s).
+\i (00:32:49) prepopup 4.007 5.743
+\i (00:32:50) prepopup -1.204 6.757
+\i (00:32:51) pick grid -1.307 8.236
+\t (00:32:51) last pick:  -1.270 8.255
+\i (00:32:51) signalintegrity 
+\i (00:32:52) prepopup -1.273 8.219
+\i (00:32:54) pop dyn_option_select @:@Move 
+\i (00:32:54) move 
+\t (00:32:54) last pick:  -1.270 8.255
+\t (00:32:54) last pick:  -1.270 8.255
+\t (00:32:54) Pick new location for the element(s).
+\i (00:32:55) pick grid -2.098 4.814
+\t (00:32:55) last pick:  -2.159 4.826
+\i (00:32:55) signalintegrity 
+\i (00:32:56) zoom out 1 
+\i (00:32:56) setwindow pcb
+\i (00:32:56) zoom out -1.995 5.347
+\i (00:32:56) trapsize 172
+\i (00:32:56) zoom out 1 
+\i (00:32:56) setwindow pcb
+\i (00:32:56) zoom out -2.546 5.416
+\i (00:32:56) trapsize 344
+\t (00:32:57) Pick to complete the window.
+\i (00:33:00) pick 15.467 -17.445
+\t (00:33:00) last pick:  15.467 -17.445
+\i (00:33:00) setwindow pcb
+\i (00:33:00) zoom points
+\i (00:33:00) pick -50.000 -50.000
+\i (00:33:00) pick 486.972 205.428
+\i (00:33:00) trapsize 1789
+\i (00:33:00) signalintegrity 
+\i (00:33:02) zoom in 1 
+\i (00:33:02) setwindow pcb
+\i (00:33:02) zoom in 1.157 -3.493
+\i (00:33:02) trapsize 894
+\i (00:33:02) zoom in 1 
+\i (00:33:02) setwindow pcb
+\i (00:33:02) zoom in 0.979 -3.493
+\i (00:33:02) trapsize 447
+\i (00:33:02) zoom in 1 
+\i (00:33:02) setwindow pcb
+\i (00:33:02) zoom in -0.273 3.126
+\i (00:33:02) trapsize 224
+\i (00:33:06) delete 
+\t (00:33:06) Selected item not valid for current operation, ignored: Mechanical Pin "Mtg125."
+\t (00:33:06) No valid items selected for the current operation, exiting.
+\i (00:33:06) signalintegrity 
+\i (00:33:07) drag_start grid -4.611 7.777
+\i (00:33:07) drag_stop -2.151 2.008
+\i (00:33:08) pick grid -2.017 3.618
+\t (00:33:08) last pick:  -2.032 3.556
+\i (00:33:08) pick grid -2.285 8.448
+\t (00:33:08) last pick:  -2.286 8.509
+\i (00:33:08) pick grid -1.704 4.826
+\t (00:33:08) last pick:  -1.651 4.826
+\i (00:33:09) drag_start grid -3.046 9.297
+\i (00:33:09) drag_stop -1.972 7.956
+\i (00:33:10) delete 
+\i (00:33:10) drag_start grid -2.956 9.700
+\i (00:33:11) drag_stop -2.017 1.785
+\t (00:33:11) Symbol "Mtg125"
+\i (00:33:11) pick grid -1.525 4.021
+\t (00:33:11) last pick:  -1.524 4.064
+\i (00:33:13) pick grid 5.272 5.496
+\t (00:33:13) last pick:  5.334 5.461
+\t (00:33:13) Symbol "Mtg125"
+\i (00:33:14) prepopup 5.093 5.094
+\i (00:33:16) pick grid -1.168 9.700
+\t (00:33:16) last pick:  -1.143 9.652
+\i (00:33:16) prepopup -1.168 9.655
+\i (00:33:16) done 
+\i (00:33:16) signalintegrity 
+\i (00:33:18) prepopup 3.796 6.033
+\i (00:33:19) pop dyn_option_select @:@Spin 
+\i (00:33:19) spin 
+\i (00:33:20) prepopup 4.333 6.614
+\i (00:33:21) done 
+\i (00:33:21) signalintegrity 
+\i (00:33:21) prepopup 3.528 6.346
+\i (00:33:22) pop dyn_option_select @:@Move 
+\i (00:33:22) move 
+\t (00:33:23) last pick:  3.556 6.350
+\t (00:33:23) last pick:  3.810 5.715
+\t (00:33:23) Pick new location for the element(s).
+\i (00:33:24) pick grid 3.662 5.899
+\t (00:33:24) last pick:  3.683 5.842
+\i (00:33:24) signalintegrity 
+\i (00:33:24) prepopup 4.288 6.346
+\i (00:33:25) pop dyn_option_select @:@Move 
+\i (00:33:25) move 
+\t (00:33:25) last pick:  4.318 6.350
+\t (00:33:25) last pick:  3.683 5.842
+\t (00:33:25) Pick new location for the element(s).
+\i (00:33:26) pick grid -2.911 9.163
+\t (00:33:26) last pick:  -2.921 9.144
+\i (00:33:26) signalintegrity 
+\i (00:33:28) place manual 
+\t (00:33:28) Selected item not valid for current operation, ignored: Mechanical Pin "Mtg125."
+\t (00:33:28) No valid items selected for the current operation, exiting.
+\i (00:33:28) signalintegrity 
+\i (00:33:32) place manual 
+\t (00:33:32) Selected item not valid for current operation, ignored: Mechanical Pin "Mtg125."
+\t (00:33:32) No valid items selected for the current operation, exiting.
+\i (00:33:32) signalintegrity 
+\i (00:33:34) zoom out 1 
+\i (00:33:34) setwindow pcb
+\i (00:33:34) zoom out 34.383 9.879
+\i (00:33:34) trapsize 447
+\i (00:33:34) zoom out 1 
+\i (00:33:34) setwindow pcb
+\i (00:33:34) zoom out 33.041 9.700
+\i (00:33:34) trapsize 894
+\i (00:33:34) zoom out 1 
+\i (00:33:34) setwindow pcb
+\i (00:33:34) zoom out 105.439 13.142
+\i (00:33:34) trapsize 1789
+\i (00:33:35) zoom out 1 
+\i (00:33:35) setwindow pcb
+\i (00:33:35) zoom out 186.468 51.241
+\i (00:33:35) trapsize 3024
+\i (00:33:35) zoom out 1 
+\i (00:33:35) setwindow pcb
+\i (00:33:35) zoom out 340.676 113.891
+\i (00:33:35) trapsize 3024
+\i (00:33:35) zoom out 1 
+\i (00:33:35) setwindow pcb
+\i (00:33:35) zoom out 332.210 107.843
+\i (00:33:35) trapsize 3024
+\i (00:33:35) zoom out 1 
+\i (00:33:35) setwindow pcb
+\i (00:33:35) zoom out 289.272 69.138
+\i (00:33:35) trapsize 3024
+\i (00:33:38) trapsize 5488
+\i (00:33:39) trapsize 1777
+\i (00:33:40) zoom in 1 
+\i (00:33:40) setwindow pcb
+\i (00:33:40) zoom in 11.122 -9.489
+\i (00:33:40) trapsize 888
+\i (00:33:40) zoom in 1 
+\i (00:33:40) setwindow pcb
+\i (00:33:40) zoom in 11.121 -6.290
+\i (00:33:40) trapsize 444
+\i (00:33:42) place manual 
+\t (00:33:42) Selected item not valid for current operation, ignored: Mechanical Pin "Mtg125."
+\t (00:33:42) No valid items selected for the current operation, exiting.
+\i (00:33:42) signalintegrity 
+\i (00:33:52) place manual 
+\t (00:33:52) Selected item not valid for current operation, ignored: Mechanical Pin "Mtg125."
+\t (00:33:52) No valid items selected for the current operation, exiting.
+\i (00:33:52) signalintegrity 
+\i (00:34:14) zoom out 1 
+\i (00:34:14) setwindow pcb
+\i (00:34:14) zoom out 18.495 -17.306
+\i (00:34:14) trapsize 888
+\i (00:34:14) zoom out 1 
+\i (00:34:14) setwindow pcb
+\i (00:34:14) zoom out 18.140 -16.951
+\i (00:34:14) trapsize 1777
+\i (00:34:14) zoom out 1 
+\i (00:34:14) setwindow pcb
+\i (00:34:14) zoom out 39.907 -16.951
+\i (00:34:14) trapsize 3161
+\i (00:34:14) zoom in 1 
+\i (00:34:14) setwindow pcb
+\i (00:34:14) zoom in 48.625 17.647
+\i (00:34:14) trapsize 1581
+\i (00:34:14) zoom in 1 
+\i (00:34:14) setwindow pcb
+\i (00:34:14) zoom in 42.619 20.808
+\i (00:34:14) trapsize 790
+\i (00:34:15) zoom out 1 
+\i (00:34:15) setwindow pcb
+\i (00:34:15) zoom out 62.376 33.136
+\i (00:34:15) trapsize 1581
+\i (00:34:16) zoom in 1 
+\i (00:34:16) setwindow pcb
+\i (00:34:16) zoom in -8.432 4.055
+\i (00:34:16) trapsize 790
+\i (00:34:16) zoom in 1 
+\i (00:34:16) setwindow pcb
+\i (00:34:16) zoom in -8.432 4.055
+\i (00:34:16) trapsize 395
+\i (00:34:17) pick grid -4.797 9.034
+\t (00:34:17) last pick:  -4.826 9.017
+\i (00:34:18) prepopup -3.848 9.113
+\i (00:34:19) pick grid -3.927 17.411
+\t (00:34:19) last pick:  -3.937 17.399
+\i (00:34:20) delete 
+\i (00:34:20) drag_start grid -6.772 12.275
+\i (00:34:21) drag_stop -2.742 5.794
+\t (00:34:21) Symbol "Mtg125"
+\i (00:34:21) pick grid -1.636 7.928
+\t (00:34:21) last pick:  -1.651 7.874
+\t (00:34:21) Symbol "Mtg125"
+\i (00:34:23) place manual 
+\i (00:34:26) setwindow form.plc_manual
+\i (00:34:26) FORM plc_manual tree 'MULTISEL YES' MTG125 'Mechanical symbols' 
+\i (00:34:26) FORM plc_manual tree  MTG125 'Mechanical symbols' 
+\i (00:34:28) setwindow pcb
+\i (00:34:28) pick grid 5.398 6.348
+\t (00:34:28) last pick:  5.715 6.350
+\i (00:34:29) pick grid 5.793 5.636
+\t (00:34:29) last pick:  5.715 5.715
+\t (00:34:29) last pick:  5.715 6.350
+\i (00:34:30) pick grid 6.030 4.530
+\t (00:34:30) last pick:  5.715 4.445
+\i (00:34:30) pick grid 5.082 5.557
+\t (00:34:30) last pick:  5.080 5.715
+\t (00:34:30) last pick:  5.715 4.445
+\i (00:34:31) pick grid 5.319 6.110
+\t (00:34:31) last pick:  5.080 6.350
+\i (00:34:32) pick grid 5.398 5.557
+\t (00:34:32) last pick:  5.715 5.715
+\t (00:34:32) last pick:  5.080 6.350
+\i (00:34:32) pick grid 5.398 5.557
+\t (00:34:32) last pick:  5.715 5.715
+\i (00:34:34) setwindow form.plc_manual
+\i (00:34:34) FORM plc_manual cancel  
+\i (00:34:35) setwindow pcb
+\i (00:34:35) signalintegrity 
+\i (00:34:37) place manual 
+\i (00:34:40) setwindow form.plc_manual
+\i (00:34:40) FORM plc_manual tree 'MULTISEL YES' MTG125 'Mechanical symbols' 
+\i (00:34:40) FORM plc_manual tree  MTG125 'Mechanical symbols' 
+\i (00:34:43) setwindow form.mini
+\i (00:34:43) FORM mini class ROUTE KEEPOUT 
+\i (00:35:49) setwindow pcb
+\i (00:35:49) pick grid -10.408 35.666
+\t (00:35:49) last pick:  -10.160 35.560
+\i (00:35:51) setwindow form.plc_manual
+\i (00:35:51) FORM plc_manual cancel  
+\i (00:35:51) setwindow pcb
+\i (00:35:51) signalintegrity 
+\i (00:35:52) pick grid 80.710 49.654
+\t (00:35:52) last pick:  80.772 49.657
+\i (00:36:08) ncdrill legend 
+   (00:36:09) Loading sigallegro.cxt 
+   (00:36:09) Loading skillExt.cxt 
+   (00:36:09) Loading mfg.cxt 
+\i (00:36:31) setwindow form.nc_drilllegend
+\i (00:36:31) FORM nc_drilllegend done  
+\i (00:36:35) setwindow pcb
+\i (00:36:35) zoom out 1 
+\i (00:36:35) setwindow pcb
+\i (00:36:35) zoom out 9.507 26.262
+\i (00:36:35) trapsize 790
+\i (00:37:03) zoom in 1 
+\i (00:37:03) setwindow pcb
+\i (00:37:03) zoom in 72.254 41.436
+\i (00:37:03) trapsize 395
+\i (00:37:03) zoom out 1 
+\i (00:37:03) setwindow pcb
+\i (00:37:03) zoom out 72.334 41.436
+\i (00:37:03) trapsize 790
+\i (00:37:13) grid toggle 
+\t (00:37:13) Grids are drawn 1.016, 1.016 apart for enhanced viewability.
+\i (00:37:14) pick grid 74.388 46.493
+\t (00:37:14) last pick:  74.422 46.482
+\t (00:37:14) NC Drill Legend generation successful
+\i (00:37:15) signalintegrity 
+\i (00:38:11) skill Left~ZEscEscDelDelDelDelDelDelDelEscEscEsc~ZF3EscEscEsc~ZEscEscEsc~Z 
+   (00:38:11) 
+   (00:38:11) Left~ZEscEscDelDelDelDelDelDelDelEscEscEsc~ZF3EscEscEsc~ZEscEscEsc~Z
+   (00:38:11)      ^
+   (00:38:11) SYNTAX ERROR found at line 1 column 6 of file *string*
+   (00:38:11) *Error* lineread/read: syntax error encountered in input
+   (00:38:11) nil
+\i (00:38:14) grid toggle 
+\i (00:38:14) signalintegrity 
+\i (00:38:15) grid toggle 
+\i (00:38:15) signalintegrity 
+\i (00:38:15) grid toggle 
+\i (00:38:15) signalintegrity 
+\i (00:38:17) grid toggle 
+\i (00:38:17) signalintegrity 
+\i (00:38:18) grid toggle 
+\i (00:38:18) signalintegrity 
+\i (00:38:35) zoom in 1 
+\i (00:38:35) setwindow pcb
+\i (00:38:35) zoom in 2.948 6.348
+\i (00:38:35) trapsize 395
+\i (00:38:35) zoom in 1 
+\i (00:38:35) setwindow pcb
+\i (00:38:35) zoom in 2.948 6.348
+\i (00:38:35) trapsize 198
+\i (00:38:35) pick grid -3.216 8.284
+\t (00:38:35) last pick:  -3.175 8.255
+\i (00:38:37) prepopup -2.821 20.257
+\i (00:38:38) delete 
+\i (00:38:38) drag_start grid -4.599 11.564
+\i (00:38:38) drag_stop -2.702 7.376
+\t (00:38:38) Symbol "Mtg125"
+\i (00:38:39) pick grid -2.623 15.634
+\t (00:38:39) last pick:  -2.667 15.621
+\i (00:38:39) pick grid -2.386 9.233
+\t (00:38:39) last pick:  -2.413 9.271
+\t (00:38:39) Symbol "Mtg125"
+\i (00:38:39) pick grid -3.414 9.114
+\t (00:38:39) last pick:  -3.429 9.144
+\t (00:38:39) Symbol "Mtg125"
+\i (00:38:40) prepopup -1.991 21.640
+\i (00:38:41) done 
+\i (00:38:41) signalintegrity 
+\i (00:38:41) delete 
+\i (00:38:42) drag_start grid -3.927 13.224
+\i (00:38:42) drag_stop -1.952 7.810
+\t (00:38:42) Symbol "Mtg125"
+\i (00:38:42) pick grid -2.702 14.211
+\t (00:38:42) last pick:  -2.667 14.224
+\i (00:38:43) pick grid -3.651 9.193
+\t (00:38:43) last pick:  -3.683 9.144
+\t (00:38:43) Symbol "Mtg125"
+\i (00:38:43) zoom out 1 
+\i (00:38:43) setwindow pcb
+\i (00:38:43) zoom out 9.784 15.752
+\i (00:38:43) trapsize 395
+\i (00:38:44) zoom out 1 
+\i (00:38:44) setwindow pcb
+\i (00:38:44) zoom out 8.913 15.358
+\i (00:38:44) trapsize 790
+\i (00:38:45) zoom in 1 
+\i (00:38:45) setwindow pcb
+\i (00:38:45) zoom in -2.268 8.006
+\i (00:38:45) trapsize 395
+\i (00:38:45) zoom in 1 
+\i (00:38:45) setwindow pcb
+\i (00:38:45) zoom in -2.268 8.006
+\i (00:38:45) trapsize 198
+\i (00:38:45) pick grid -3.216 9.271
+\t (00:38:45) last pick:  -3.175 9.271
+\t (00:38:45) Symbol "Mtg125"
+\i (00:38:46) pick grid -2.979 9.271
+\t (00:38:46) last pick:  -2.921 9.271
+\t (00:38:46) Symbol "Mtg125"
+\i (00:38:46) drag_start grid -4.520 11.760
+\i (00:38:46) drag_stop -1.162 9.152
+\t (00:38:46) Symbol "Mtg125"
+\i (00:38:46) pick grid -1.952 8.994
+\t (00:38:46) last pick:  -1.905 9.017
+\t (00:38:46) Symbol "Mtg125"
+\i (00:38:46) prepopup -4.560 11.760
+\i (00:38:47) pick grid -5.390 12.076
+\t (00:38:47) last pick:  -5.334 12.065
+\i (00:38:47) prepopup -4.441 11.720
+\i (00:38:48) done 
+\i (00:38:48) signalintegrity 
+\i (00:38:49) pick grid -3.098 9.705
+\t (00:38:49) last pick:  -3.048 9.652
+\i (00:38:50) delete 
+\i (00:38:51) drag_start grid -4.086 12.234
+\i (00:38:51) drag_stop -2.466 7.769
+\t (00:38:51) Symbol "Mtg125"
+\i (00:38:52) pick grid -2.782 8.520
+\t (00:38:52) last pick:  -2.794 8.509
+\t (00:38:52) Symbol "Mtg125"
+\i (00:38:52) pick grid -2.900 9.666
+\t (00:38:52) last pick:  -2.921 9.652
+\t (00:38:52) Symbol "Mtg125"
+\i (00:38:52) pick grid -3.058 9.547
+\t (00:38:52) last pick:  -3.048 9.525
+\t (00:38:52) Symbol "Mtg125"
+\i (00:38:52) pick grid dbl -3.058 9.547
+\t (00:38:52) last pick:  -3.048 9.525
+\t (00:38:52) Symbol "Mtg125"
+\i (00:38:52) drag_start grid -5.153 12.511
+\i (00:38:53) drag_stop -0.846 5.952
+\t (00:38:53) Symbol "Mtg125"
+\i (00:38:55) zoom out 1 
+\i (00:38:55) setwindow pcb
+\i (00:38:55) zoom out 32.740 14.012
+\i (00:38:55) trapsize 395
+\i (00:38:55) zoom out 1 
+\i (00:38:55) setwindow pcb
+\i (00:38:55) zoom out 35.112 14.487
+\i (00:38:55) trapsize 790
+\i (00:38:55) zoom out 1 
+\i (00:38:56) setwindow pcb
+\i (00:38:56) zoom out 113.111 30.133
+\i (00:38:56) trapsize 1581
+\i (00:38:56) zoom out 1 
+\i (00:38:56) setwindow pcb
+\i (00:38:56) zoom out 276.222 110.266
+\i (00:38:56) trapsize 3161
+\i (00:38:56) zoom in 1 
+\i (00:38:56) setwindow pcb
+\i (00:38:56) zoom in 85.925 20.808
+\i (00:38:56) trapsize 1581
+\i (00:38:57) zoom in 1 
+\i (00:38:57) setwindow pcb
+\i (00:38:57) zoom in 75.940 21.124
+\i (00:38:57) trapsize 790
+\t (00:38:58) Pick to complete the window.
+\i (00:39:00) pick 93.326 67.117
+\t (00:39:00) last pick:  93.326 67.117
+\i (00:39:00) setwindow pcb
+\i (00:39:00) zoom previous
+\i (00:39:00) trapsize 1581
+\t (00:39:01) Pick to complete the window.
+\i (00:39:02) pick 76.442 108.685
+\t (00:39:02) last pick:  76.442 108.685
+\i (00:39:02) setwindow pcb
+\i (00:39:02) zoom points
+\i (00:39:02) pick -50.000 -50.000
+\i (00:39:02) pick 898.948 381.800
+\i (00:39:02) trapsize 3161
+\i (00:39:04) zoom in 1 
+\i (00:39:04) setwindow pcb
+\i (00:39:04) zoom in 13.221 -20.286
+\i (00:39:04) trapsize 1581
+\i (00:39:04) zoom in 1 
+\i (00:39:04) setwindow pcb
+\i (00:39:04) zoom in -10.802 10.692
+\i (00:39:04) trapsize 790
+\i (00:39:05) zoom in 1 
+\i (00:39:05) setwindow pcb
+\i (00:39:05) zoom in -9.853 13.380
+\i (00:39:05) trapsize 395
+\i (00:39:05) zoom out 1 
+\i (00:39:05) setwindow pcb
+\i (00:39:05) zoom out -2.425 15.909
+\i (00:39:05) trapsize 790
+\i (00:39:38) add line 
+\i (00:40:04) setwindow form.mini
+\i (00:40:04) FORM mini class MANUFACTURING 
+\e (00:40:25) Must be a real number.
+\i (00:42:01) setwindow pcb
+\i (00:42:01) zoom in 1 
+\i (00:42:01) setwindow pcb
+\i (00:42:01) zoom in -14.120 18.596
+\i (00:42:01) trapsize 395
+\i (00:42:02) zoom out 1 
+\i (00:42:02) setwindow pcb
+\i (00:42:02) zoom out -13.092 18.597
+\i (00:42:02) trapsize 790
+\i (00:42:03) zoom in 1 
+\i (00:42:03) setwindow pcb
+\i (00:42:03) zoom in -2.977 -8.905
+\i (00:42:03) trapsize 395
+\i (00:42:04) zoom out 1 
+\i (00:42:04) setwindow pcb
+\i (00:42:04) zoom out -1.870 1.368
+\i (00:42:04) trapsize 790
+\i (00:42:06) zoom in 1 
+\i (00:42:06) setwindow pcb
+\i (00:42:06) zoom in -18.624 9.588
+\i (00:42:06) trapsize 395
+\i (00:42:06) zoom out 1 
+\i (00:42:06) setwindow pcb
+\i (00:42:06) zoom out -9.694 14.013
+\i (00:42:06) trapsize 790
+\i (00:42:07) zoom in 1 
+\i (00:42:07) setwindow pcb
+\i (00:42:07) zoom in -12.065 24.919
+\i (00:42:07) trapsize 395
+\i (00:42:59) pick grid -5.031 42.858
+\t (00:42:59) last pick:  -5.080 42.545
+\i (00:43:04) prepopup -7.876 41.910
+\i (00:43:05) done 
+\i (00:43:05) signalintegrity 
+\i (00:43:42) artwork 
+\i (00:44:09) setwindow form.film_control
+\i (00:44:09) FORM film_control filmtree  BOTTOM 
+\i (00:44:37) FORM film_control filmtree popup Add BOTTOM 
+\i (00:45:05) fillin "menu_cancel"
+\i (00:45:24) FORM film_control filmtree popup Add BOTTOM 
+\i (00:45:28) fillin "Design"
+\i (00:46:47) FORM film_control cancel  
+\i (00:46:47) setwindow pcb
+\i (00:46:47) signalintegrity 
+\i (00:47:02) showhide vis 
+\i (00:47:03) signalintegrity 
+\i (00:47:06) showhide vis 
+\i (00:47:06) signalintegrity 
+\i (00:47:14) setwindow form.vf_vis
+\i (00:47:14) FORM vf_vis colorview_list Film: TOP 
+\i (00:47:18) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:47:20) FORM vf_vis colorview_list Film: TOP 
+\i (00:48:25) setwindow pcb
+\i (00:48:25) pick grid -9.852 30.767
+\t (00:48:25) last pick:  -10.160 30.480
+\i (00:48:31) color192 
+\i (00:48:31) setwindow cvf.dialog
+\i (00:48:31) cvf layer_mode
+\i (00:48:31) setwindow pcb
+\i (00:48:31) signalintegrity 
+\i (00:49:11) setwindow cvf.dialog
+\i (00:49:11) cvf layer_tree_item 'Display'
+\i (00:49:11) cvf layer_tree_item 'Stack-Up'
+\i (00:49:13) cvf layer_tree_item 'My Favorites'
+\i (00:49:15) cvf layer_tree_item 'Display'
+\i (00:49:24) cvf layer_tree_item 'Board Geometry'
+\i (00:49:57) cvf layers_visible board_geometry/silkscreen_top TRUE
+\i (00:50:08) cvf layer_tree_item 'Package Geometry'
+\i (00:50:12) cvf layers_visible package_geometry/silkscreen_top TRUE
+\i (00:50:34) cvf layer_tree_item 'Components'
+\i (00:50:41) cvf layers_visible components ref_des/all_row TRUE
+\i (00:50:43) cvf layers_visible components ref_des/all_row FALSE
+\i (00:50:45) cvf layers_visible components ref_des/silkscreen_top TRUE
+\i (00:50:51) cvf apply
+\i (00:51:12) cvf cancel
+\i (00:51:15) setwindow pcb
+\i (00:51:15) artwork 
+\i (00:51:38) setwindow form.film_control
+\i (00:51:38) FORM film_control filmtree popup Add BOTTOM 
+\i (00:51:48) fillin "SilkT"
+\i (00:51:58) FORM film_control filmtree  'VIA CLASS/TOP' SilkT 
+\i (00:51:59) FORM film_control filmtree  'REF DES/SILKSCREEN_TOP' SilkT 
+\i (00:51:59) FORM film_control filmtree  PIN/TOP SilkT 
+\i (00:52:00) FORM film_control filmtree  'PACKAGE GEOMETRY/SILKSCREEN_TOP' SilkT 
+\i (00:52:00) FORM film_control filmtree  ETCH/TOP SilkT 
+\i (00:52:00) FORM film_control filmtree  'BOARD GEOMETRY/SILKSCREEN_TOP' SilkT 
+\i (00:52:03) FORM film_control filmtree  ETCH/TOP SilkT 
+\i (00:52:03) FORM film_control filmtree  'PACKAGE GEOMETRY/SILKSCREEN_TOP' SilkT 
+\i (00:52:04) FORM film_control filmtree  PIN/TOP SilkT 
+\i (00:52:04) FORM film_control filmtree  'REF DES/SILKSCREEN_TOP' SilkT 
+\i (00:52:05) FORM film_control filmtree  'VIA CLASS/TOP' SilkT 
+\i (00:52:05) FORM film_control filmtree  'REF DES/SILKSCREEN_TOP' SilkT 
+\i (00:52:06) FORM film_control filmtree  PIN/TOP SilkT 
+\i (00:52:06) FORM film_control filmtree  'PACKAGE GEOMETRY/SILKSCREEN_TOP' SilkT 
+\i (00:52:07) FORM film_control filmtree  'BOARD GEOMETRY/SILKSCREEN_TOP' SilkT 
+\i (00:52:07) FORM film_control filmtree  ETCH/TOP SilkT 
+\i (00:52:08) FORM film_control filmtree  'PACKAGE GEOMETRY/SILKSCREEN_TOP' SilkT 
+\i (00:52:08) FORM film_control filmtree  PIN/TOP SilkT 
+\i (00:52:09) FORM film_control filmtree  'REF DES/SILKSCREEN_TOP' SilkT 
+\i (00:52:09) FORM film_control filmtree  'VIA CLASS/TOP' SilkT 
+\i (00:52:16) FORM film_control filmtree  ETCH/TOP SilkT 
+\i (00:52:16) FORM film_control filmtree  PIN/TOP SilkT 
+\i (00:52:17) FORM film_control filmtree  'VIA CLASS/TOP' SilkT 
+\i (00:52:17) FORM film_control filmtree  PIN/TOP SilkT 
+\i (00:52:18) FORM film_control filmtree  ETCH/TOP SilkT 
+\i (00:52:21) FORM film_control filmtree  SilkT 
+\i (00:52:28) FORM film_control filmtree  BOTTOM 
+\i (00:52:35) FORM film_control filmtree  SilkT 
+\i (00:52:36) FORM film_control filmtree  BOTTOM 
+\i (00:52:39) FORM film_control load  
+\i (00:52:43) fillin "menu_cancel"
+\i (00:52:46) FORM film_control filmtree popup Add BOTTOM 
+\i (00:52:53) fillin "menu_cancel"
+\i (00:53:14) FORM film_control ok  
+\i (00:53:14) setwindow pcb
+\i (00:53:14) signalintegrity 
+\i (00:53:15) color192 
+\i (00:53:16) setwindow cvf.dialog
+\i (00:53:16) cvf layer_mode
+\i (00:53:16) setwindow pcb
+\i (00:53:16) signalintegrity 
+\i (00:53:48) setwindow cvf.dialog
+\i (00:53:48) cvf layer_tree_item 'Board Geometry'
+\i (00:53:55) cvf layers_visible board_geometry/outline TRUE
+\i (00:54:20) cvf layers_visible board_geometry/silkscreen_bottom TRUE
+\i (00:54:34) cvf layers_visible board_geometry/soldermask_bottom TRUE
+\i (00:54:34) cvf layers_visible board_geometry/soldermask_top TRUE
+\i (00:54:47) cvf layer_tree_item 'Manufacturing'
+\i (00:54:56) cvf layers_visible manufacturing/nclegend-1-2 TRUE
+\i (00:55:08) cvf layer_tree_item 'Package Geometry'
+\i (00:55:15) cvf layers_visible package_geometry/pastemask_bottom TRUE
+\i (00:55:16) cvf layers_visible package_geometry/pastemask_top TRUE
+\i (00:55:27) cvf layers_visible package_geometry/pin_number TRUE
+\i (00:55:33) cvf layers_visible package_geometry/silkscreen_bottom TRUE
+\i (00:55:45) cvf layers_visible package_geometry/soldermask_bottom TRUE
+\i (00:55:46) cvf layers_visible package_geometry/soldermask_top TRUE
+\i (00:56:02) cvf layer_tree_item 'Embedded Geomerty'
+\i (00:56:02) cvf layer_tree_item 'Components'
+\i (00:56:05) cvf layer_tree_item 'Manufacturing'
+\i (00:56:06) cvf layer_tree_item 'Drawing Format'
+\i (00:56:07) cvf layer_tree_item 'Analysis'
+\i (00:56:09) cvf layer_tree_item 'Areas'
+\i (00:56:11) cvf layer_tree_item 'Stack-Up'
+\i (00:56:13) cvf layer_tree_item 'Display'
+\i (00:56:14) cvf layer_tree_item 'Areas'
+\i (00:56:15) cvf layer_tree_item 'Board Geometry'
+\i (00:56:17) cvf layer_tree_item 'Package Geometry'
+\i (00:56:21) cvf layer_tree_item 'Embedded Geomerty'
+\i (00:56:22) cvf layer_tree_item 'Components'
+\i (00:56:23) cvf layer_tree_item 'Manufacturing'
+\i (00:56:25) cvf layer_tree_item 'Drawing Format'
+\i (00:56:40) cvf layer_tree_item 'Analysis'
+\i (00:56:40) cvf layer_tree_item 'Manufacturing'
+\i (00:56:40) cvf layer_tree_item 'Components'
+\i (00:56:41) cvf layer_tree_item 'Manufacturing'
+\i (00:56:42) cvf layer_tree_item 'Components'
+\i (00:56:51) cvf layers_visible components ref_des/silkscreen_bottom TRUE
+\i (00:56:52) cvf layer_tree_item 'Manufacturing'
+\i (00:56:54) cvf layer_tree_item 'Components'
+\i (00:56:55) cvf layer_tree_item 'Embedded Geomerty'
+\i (00:56:57) cvf layer_tree_item 'Package Geometry'
+\i (00:57:02) cvf layer_tree_item 'Board Geometry'
+\i (00:57:04) cvf layer_tree_item 'Package Geometry'
+\i (00:57:12) cvf layer_tree_item 'Areas'
+\i (00:57:14) cvf layer_tree_item 'Board Geometry'
+\i (00:57:16) cvf layer_tree_item 'Package Geometry'
+\i (00:57:20) cvf layer_tree_item 'Embedded Geomerty'
+\i (00:57:21) cvf layer_tree_item 'Components'
+\i (00:57:22) cvf layer_tree_item 'Manufacturing'
+\i (00:57:24) cvf layer_tree_item 'Drawing Format'
+\i (00:57:27) cvf layer_tree_item 'Analysis'
+\i (00:58:33) cvf layer_tree_item 'My Favorites'
+\i (00:58:44) cvf layer_tree_item 'Conductor' 'Stack-Up'
+\i (00:58:45) cvf layer_tree_item 'Flow Plan' 'Stack-Up'
+\i (00:58:46) cvf layer_tree_item 'Non-Conductor' 'Stack-Up'
+\i (00:58:51) cvf layer_tree_item 'Flow Plan' 'Stack-Up'
+\i (00:58:51) cvf layer_tree_item 'Conductor' 'Stack-Up'
+\i (00:58:52) cvf layer_tree_item 'Display'
+\i (00:58:53) cvf layer_tree_item 'Stack-Up'
+\i (00:58:57) cvf layer_tree_item 'My Favorites'
+\i (00:58:58) cvf layer_tree_item 'Areas'
+\i (00:58:59) cvf layer_tree_item 'Board Geometry'
+\i (00:59:04) cvf layer_tree_item 'Package Geometry'
+\i (00:59:08) cvf layer_tree_item 'Embedded Geomerty'
+\i (00:59:09) cvf layer_tree_item 'Components'
+\i (00:59:11) cvf layer_tree_item 'Manufacturing'
+\i (00:59:13) cvf layer_tree_item 'Drawing Format'
+\i (00:59:14) cvf layer_tree_item 'Analysis'
+\i (00:59:36) cvf layer_tree_item 'Board Geometry'
+\i (00:59:48) cvf layer_tree_item 'Package Geometry'
+\i (00:59:49) cvf layer_tree_item 'Embedded Geomerty'
+\i (00:59:49) cvf layer_tree_item 'Components'
+\i (01:00:01) cvf apply
+\i (01:00:04) cvf okay
+\i (01:00:14) setwindow pcb
+\i (01:00:14) artwork 
+\i (01:00:18) setwindow form.film_control
+\i (01:00:18) FORM film_control filmtree popup Add BOTTOM 
+\i (01:00:22) fillin "Design"
+\i (01:00:23) FORM film_control filmtree  Design 
+\i (01:02:47) FORM film_control filmtree  'BOARD GEOMETRY/SILKSCREEN_TOP' Design 
+\i (01:03:08) FORM film_control filmtree  SilkT 
+\i (01:03:17) FORM film_control filmtree  'PACKAGE GEOMETRY/PASTEMASK_BOTTOM' Design 
+\i (01:03:28) FORM film_control general_parameters  
+\i (01:03:29) FORM film_control film_control  
+\i (01:03:35) FORM film_control filmtree  Design 
+\i (01:04:36) FORM film_control filmtree  SilkT 
+\i (01:04:39) FORM film_control filmtree  Design 
+\i (01:04:41) FORM film_control filmtree popup Add Design 
+\i (01:04:44) fillin "menu_cancel"
+\i (01:04:45) FORM film_control filmtree 'MULTISEL YES' Design 
+\i (01:04:46) FORM film_control filmtree 'MULTISEL NO' Design 
+\i (01:05:00) FORM film_control filmtree popup 'Add Manual' Design 
+\i (01:05:05) fillin "kkk"
+\i (01:05:13) setwindow form.scl_browser
+\i (01:05:13) FORM scl_browser treelist  'VIA KEEPOUT' 
+\i (01:05:19) FORM scl_browser treelist  'PACKAGE GEOMETRY' 
+\i (01:05:21) FORM scl_browser cancel  
+\i (01:05:22) setwindow form.film_control
+\i (01:05:22) FORM film_control filmtree  kkk 
+\i (01:05:24) FORM film_control filmtree popup Cut kkk 
+\i (01:05:53) FORM film_control filmtree  Design 
+\i (01:05:55) FORM film_control cancel  
+\i (01:05:56) setwindow pcb
+\i (01:05:56) signalintegrity 
+\i (01:05:57) color192 
+\i (01:05:58) setwindow cvf.dialog
+\i (01:05:58) cvf layer_mode
+\i (01:05:58) setwindow pcb
+\i (01:05:58) signalintegrity 
+\i (01:06:10) setwindow cvf.dialog
+\i (01:06:10) cvf layer_tree_item 'Board Geometry'
+\i (01:06:25) cvf global_invisible
+\i (01:06:29) cvf layers_visible board_geometry/silkscreen_bottom TRUE
+\i (01:06:30) cvf layer_tree_item 'Package Geometry'
+\i (01:06:32) cvf layers_visible package_geometry/silkscreen_bottom TRUE
+\i (01:06:33) cvf layer_tree_item 'Embedded Geomerty'
+\i (01:06:34) cvf layer_tree_item 'Components'
+\i (01:06:36) cvf layers_visible components ref_des/silkscreen_bottom TRUE
+\i (01:07:14) cvf apply
+\i (01:07:15) cvf okay
+\i (01:07:31) setwindow form.vf_vis
+\i (01:07:31) FORM vf_vis colorview_list Film: BOTTOM 
+\i (01:07:35) FORM vf_vis colorview_list Film: SilkT 
+\i (01:07:38) FORM vf_vis colorview_list Film: BOTTOM 
+\i (01:07:39) FORM vf_vis colorview_list Film: BOTTOM 
+\i (01:07:40) FORM vf_vis colorview_list Film: BOTTOM 
+\i (01:08:10) setwindow pcb
+\i (01:08:10) pick grid 1.449 40.408
+\t (01:08:10) last pick:  1.270 40.640
+\i (01:08:13) artwork 
+\i (01:08:20) setwindow form.film_control
+\i (01:08:20) FORM film_control filmtree popup Add TOP 
+\i (01:08:22) fillin "menu_cancel"
+\i (01:08:25) FORM film_control filmtree popup Add SilkT 
+\i (01:08:33) fillin "SilkB"
+\i (01:09:08) FORM film_control ok  
+\i (01:09:08) setwindow pcb
+\i (01:09:08) signalintegrity 
+\i (01:09:24) setwindow form.mini
+\i (01:09:24) FORM mini class BOARD GEOMETRY 
+\i (01:09:29) FORM mini subclass SILKSCREEN_BOTTOM 
+\i (01:09:32) setwindow pcb
+\i (01:09:32) pick grid 74.944 39.144
+\t (01:09:32) last pick:  74.930 39.370
+\i (01:09:37) setwindow form.vf_vis
+\i (01:09:37) FORM vf_vis colorview_list Film: SilkB 
+\i (01:09:40) FORM vf_vis colorview_list Film: SilkT 
+\i (01:09:47) FORM vf_vis colorview_list Film: BOTTOM 
+\i (01:10:05) setwindow pcb
+\i (01:10:05) add text 
+\t (01:10:05) Pick text location.
+\i (01:10:43) setwindow form.mini
+\i (01:10:43) FORM mini mirror YES 
+\i (01:11:16) setwindow pcb
+\i (01:11:16) pick grid 0.738 46.968
+\t (01:11:16) last pick:  0.635 46.990
+\t (01:11:16) Enter text string.
+\i (01:11:18) setwindow pcb
+\i (01:11:18) pick grid 41.990 19.308
+\t (01:11:18) last pick:  41.910 19.050
+\t (01:11:18) Enter text string.
+\i (01:11:28) setwindow pcb
+\i (01:11:28) pick 41.910 19.050
+\t (01:11:28) Enter text string.
+\i (01:11:29) pick grid 35.431 19.940
+\t (01:11:29) last pick:  35.560 19.685
+\t (01:11:29) Enter text string.
+\i (01:11:31) setwindow pcb
+\i (01:11:31) pick grid 41.674 17.728
+\t (01:11:31) last pick:  41.910 17.780
+\t (01:11:31) Enter text string.
+\i (01:11:54) setwindow pcb
+\i (01:11:54) pick 41.910 17.780
+\t (01:11:54) Enter text string.
+\t (01:12:02) > Text Line "20190711 Changu"
+\i (01:12:02) setwindow worldview
+\i (01:12:02) trapsize 61
+\i (01:12:04) setwindow pcb
+\i (01:12:04) zoom out 1 
+\i (01:12:04) setwindow pcb
+\i (01:12:04) zoom out 40.685 18.219
+\i (01:12:04) trapsize 122
+\i (01:12:04) zoom out 1 
+\i (01:12:04) setwindow pcb
+\i (01:12:04) zoom out 40.513 18.243
+\i (01:12:04) trapsize 245
+\i (01:12:04) zoom out 1 
+\i (01:12:04) setwindow pcb
+\i (01:12:04) zoom out 38.701 18.340
+\i (01:12:04) trapsize 490
+\i (01:12:04) zoom out 1 
+\i (01:12:04) setwindow pcb
+\i (01:12:04) zoom out 38.543 18.047
+\i (01:12:04) trapsize 979
+\i (01:12:05) zoom in 1 
+\i (01:12:05) setwindow pcb
+\i (01:12:05) zoom in -1.615 10.922
+\i (01:12:05) trapsize 490
+\i (01:12:05) zoom in 1 
+\i (01:12:05) setwindow pcb
+\i (01:12:05) zoom in 6.221 11.412
+\i (01:12:05) trapsize 245
+\i (01:12:06) zoom in 1 
+\i (01:12:06) setwindow pcb
+\i (01:12:06) zoom in 42.069 17.730
+\i (01:12:06) trapsize 122
+\i (01:12:06) zoom in 1 
+\i (01:12:06) setwindow pcb
+\i (01:12:06) zoom in 42.069 17.730
+\i (01:12:06) trapsize 61
+\i (01:12:07) pick grid 40.723 17.681
+\t (01:12:07) last pick:  40.640 17.780
+\t (01:12:07) Enter text string.
+\i (01:12:07) setwindow pcb
+\i (01:12:07) pick grid 40.490 17.645
+\t (01:12:07) last pick:  40.640 17.780
+\t (01:12:07) Enter text string.
+\i (01:12:08) setwindow pcb
+\i (01:12:08) pick grid 40.049 17.742
+\t (01:12:08) last pick:  40.005 17.780
+\t (01:12:08) Enter text string.
+\i (01:12:08) setwindow pcb
+\i (01:12:08) zoom in 1 
+\i (01:12:08) setwindow pcb
+\i (01:12:08) zoom in 40.160 17.387
+\i (01:12:08) trapsize 31
+\i (01:12:09) zoom out 1 
+\i (01:12:09) setwindow pcb
+\i (01:12:09) zoom out 40.166 17.388
+\i (01:12:09) trapsize 61
+\i (01:12:09) zoom out 1 
+\i (01:12:09) setwindow pcb
+\i (01:12:09) zoom out 40.166 17.387
+\i (01:12:09) trapsize 122
+\i (01:12:09) zoom out 1 
+\i (01:12:09) setwindow pcb
+\i (01:12:09) zoom out 40.166 17.388
+\i (01:12:09) trapsize 245
+\i (01:12:09) zoom out 1 
+\i (01:12:09) setwindow pcb
+\i (01:12:09) zoom out 40.165 17.388
+\i (01:12:09) trapsize 490
+\i (01:12:09) zoom in 1 
+\i (01:12:09) setwindow pcb
+\i (01:12:09) zoom in 21.262 22.872
+\i (01:12:09) trapsize 245
+\i (01:12:09) zoom in 1 
+\i (01:12:09) setwindow pcb
+\i (01:12:09) zoom in 21.262 22.872
+\i (01:12:09) trapsize 122
+\i (01:12:09) zoom in 1 
+\i (01:12:09) setwindow pcb
+\i (01:12:09) zoom in 21.262 22.872
+\i (01:12:09) trapsize 61
+\i (01:12:10) zoom out 1 
+\i (01:12:10) setwindow pcb
+\i (01:12:10) zoom out 21.127 22.431
+\i (01:12:10) trapsize 122
+\i (01:12:10) zoom out 1 
+\i (01:12:10) setwindow pcb
+\i (01:12:10) zoom out 21.127 22.432
+\i (01:12:10) trapsize 245
+\i (01:12:11) zoom out 1 
+\i (01:12:11) setwindow pcb
+\i (01:12:11) zoom out 36.505 18.954
+\i (01:12:11) trapsize 490
+\i (01:12:11) zoom out 1 
+\i (01:12:11) setwindow pcb
+\i (01:12:11) zoom out 49.317 18.954
+\i (01:12:11) trapsize 979
+\i (01:12:12) zoom out 1 
+\i (01:12:12) setwindow pcb
+\i (01:12:12) zoom out 139.819 24.047
+\i (01:12:12) trapsize 1959
+\i (01:12:12) zoom in 1 
+\i (01:12:12) setwindow pcb
+\i (01:12:12) zoom in -16.307 0.148
+\i (01:12:12) trapsize 979
+\i (01:12:13) zoom in 1 
+\i (01:12:13) setwindow pcb
+\i (01:12:13) zoom in -9.646 -0.439
+\i (01:12:13) trapsize 490
+\i (01:12:13) zoom in 1 
+\i (01:12:13) setwindow pcb
+\i (01:12:13) zoom in -8.470 0.737
+\i (01:12:13) trapsize 245
+\i (01:12:21) setwindow form.vf_vis
+\i (01:12:21) FORM vf_vis colorview_list Film: SilkB 
+\i (01:12:26) FORM vf_vis all_all_visible YES 
+\i (01:12:27) setwindow pcb
+\i (01:12:27) zoom out 1 
+\i (01:12:27) setwindow pcb
+\i (01:12:27) zoom out 38.005 12.246
+\i (01:12:27) trapsize 490
+\i (01:12:28) zoom in 1 
+\i (01:12:28) setwindow pcb
+\i (01:12:28) zoom in 41.482 16.556
+\i (01:12:28) trapsize 245
+\i (01:12:28) zoom in 1 
+\i (01:12:28) setwindow pcb
+\i (01:12:28) zoom in 41.481 16.556
+\i (01:12:28) trapsize 122
+\i (01:12:29) pick grid 39.449 18.368
+\t (01:12:29) last pick:  39.370 18.415
+\t (01:12:29) Enter text string.
+\i (01:12:31) setwindow pcb
+\i (01:12:31) undo 
+\i (01:12:31) trapsize 395
+\i (01:12:31) signalintegrity 
+\i (01:12:34) setwindow form.vf_vis
+\i (01:12:34) FORM vf_vis colorview_list Film: BOTTOM 
+\i (01:12:38) FORM vf_vis colorview_list Film: TOP 
+\i (01:12:40) FORM vf_vis colorview_list Film: BOTTOM 
+\i (01:12:42) FORM vf_vis colorview_list Film: BOTTOM 
+\i (01:12:43) FORM vf_vis colorview_list Film: SilkB 
+\i (01:12:45) FORM vf_vis colorview_list Film: SilkT 
+\i (01:12:47) FORM vf_vis colorview_list Film: SilkB 
+\i (01:12:50) setwindow pcb
+\i (01:12:50) delete 
+\i (01:12:52) undo 
+\i (01:12:52) trapsize 395
+\i (01:12:52) signalintegrity 
+\i (01:12:57) add text 
+\t (01:12:57) Pick text location.
+\i (01:12:58) pick grid 43.570 18.202
+\t (01:12:58) last pick:  43.815 18.415
+\t (01:12:58) Enter text string.
+\i (01:13:06) setwindow pcb
+\i (01:13:06) pick 43.815 18.415
+\t (01:13:06) Enter text string.
+\i (01:13:08) setwindow form.vf_vis
+\i (01:13:08) FORM vf_vis all_all_visible YES 
+\i (01:13:09) FORM vf_vis all_all_visible NO 
+\i (01:13:10) FORM vf_vis 2 all_colorvisible YES 
+\i (01:13:12) FORM vf_vis 2 all_colorvisible NO 
+\i (01:13:16) FORM vf_vis 2 all_colorvisible YES 
+\i (01:13:17) FORM vf_vis 2 all_colorvisible NO 
+\i (01:13:17) FORM vf_vis 2 all_colorvisible YES 
+\i (01:13:17) FORM vf_vis 2 all_colorvisible NO 
+\i (01:13:20) setwindow pcb
+\i (01:13:20) pick grid 47.047 17.491
+\t (01:13:20) last pick:  46.990 17.780
+\t (01:13:20) Enter text string.
+\i (01:13:23) setwindow pcb
+\i (01:13:23) undo 
+\i (01:13:23) trapsize 395
+\i (01:13:23) signalintegrity 
+\i (01:13:31) color192 
+\i (01:13:31) setwindow cvf.dialog
+\i (01:13:31) cvf layer_mode
+\i (01:13:31) setwindow pcb
+\i (01:13:31) signalintegrity 
+\i (01:13:41) setwindow cvf.dialog
+\i (01:13:41) cvf global_invisible
+\i (01:14:00) cvf layers_visible board_geometry/soldermask_bottom TRUE
+\i (01:14:00) cvf layers_visible board_geometry/soldermask_bottom FALSE
+\i (01:14:02) cvf layers_visible board_geometry/soldermask_top TRUE
+\i (01:14:04) cvf layer_tree_item 'Package Geometry'
+\i (01:14:07) cvf layers_visible package_geometry/soldermask_top TRUE
+\i (01:15:44) cvf layer_tree_item 'Stack-Up'
+\i (01:16:28) cvf layers_visible stack-up pin/soldermask_top TRUE
+\i (01:16:30) cvf layers_visible stack-up via/soldermask_top TRUE
+\i (01:17:24) cvf apply
+\i (01:17:25) cvf okay
+\i (01:17:37) setwindow pcb
+\i (01:17:37) pick grid -5.742 48.943
+\t (01:17:37) last pick:  -5.715 48.895
+\i (01:17:42) artwork 
+\i (01:17:45) setwindow form.film_control
+\i (01:17:45) FORM film_control filmtree popup Add SilkB 
+\i (01:17:52) fillin "SolderT"
+\i (01:17:57) FORM film_control ok  
+\i (01:17:57) setwindow pcb
+\i (01:17:57) signalintegrity 
+\i (01:19:07) pick grid 22.944 44.360
+\t (01:19:07) last pick:  22.860 44.450
+\i (01:19:09) color192 
+\i (01:19:10) setwindow cvf.dialog
+\i (01:19:10) cvf layer_mode
+\i (01:19:10) setwindow pcb
+\i (01:19:10) signalintegrity 
+\i (01:19:14) setwindow cvf.dialog
+\i (01:19:14) cvf global_invisible
+\i (01:19:15) cvf layer_tree_item 'Stack-Up'
+\i (01:19:17) cvf layers_visible stack-up pin/soldermask_bottom TRUE
+\i (01:19:18) cvf layers_visible stack-up via/soldermask_bottom TRUE
+\i (01:19:19) cvf layer_tree_item 'Board Geometry'
+\i (01:19:23) cvf layer_tree_item 'Package Geometry'
+\i (01:19:27) cvf layers_visible package_geometry/soldermask_bottom TRUE
+\i (01:19:28) cvf apply
+\i (01:19:29) cvf okay
+\i (01:19:31) setwindow pcb
+\i (01:19:31) artwork 
+\i (01:19:34) setwindow form.film_control
+\i (01:19:34) FORM film_control filmtree popup Add SilkB 
+\i (01:19:38) fillin "SolderB"
+\i (01:20:03) FORM film_control filmtree popup Cut SolderB 
+\i (01:20:04) FORM film_control cancel  
+\i (01:20:04) setwindow pcb
+\i (01:20:04) signalintegrity 
+\i (01:20:06) color192 
+\i (01:20:07) setwindow cvf.dialog
+\i (01:20:07) cvf layer_mode
+\i (01:20:07) setwindow pcb
+\i (01:20:07) signalintegrity 
+\i (01:20:10) setwindow cvf.dialog
+\i (01:20:10) cvf layer_tree_item 'Stack-Up'
+\i (01:20:11) cvf layer_tree_item 'Board Geometry'
+\i (01:20:14) cvf layers_visible board_geometry/soldermask_bottom TRUE
+\i (01:20:15) cvf apply
+\i (01:20:16) cvf okay
+\i (01:20:18) setwindow pcb
+\i (01:20:18) artwork 
+\i (01:20:22) setwindow form.film_control
+\i (01:20:22) FORM film_control filmtree popup Add SolderT 
+\i (01:20:27) fillin "SolderB"
+\i (01:22:12) FORM film_control ok  
+\i (01:22:12) setwindow pcb
+\i (01:22:12) signalintegrity 
+\i (01:22:15) color192 
+\i (01:22:15) setwindow cvf.dialog
+\i (01:22:15) cvf layer_mode
+\i (01:22:15) setwindow pcb
+\i (01:22:15) signalintegrity 
+\i (01:23:45) setwindow cvf.dialog
+\i (01:23:45) cvf layer_tree_item 'Stack-Up'
+\i (01:23:47) cvf layers_visible stack-up pin/soldermask_bottom FALSE
+\i (01:23:48) cvf layers_visible stack-up via/soldermask_bottom FALSE
+\i (01:24:31) cvf layers_visible stack-up pin/pastemask_top TRUE
+\i (01:25:22) cvf layer_tree_item 'Board Geometry'
+\i (01:25:26) cvf layer_tree_item 'Package Geometry'
+\i (01:25:32) cvf layers_visible package_geometry/soldermask_bottom FALSE
+\i (01:25:33) cvf layer_tree_item 'Board Geometry'
+\i (01:25:34) cvf layers_visible board_geometry/soldermask_bottom FALSE
+\i (01:25:35) cvf layer_tree_item 'Package Geometry'
+\i (01:25:43) cvf layers_visible package_geometry/pastemask_top TRUE
+\i (01:25:45) cvf layers_visible package_geometry/pastemask_top FALSE
+\i (01:25:48) cvf layers_visible package_geometry/pastemask_top TRUE
+\i (01:26:29) cvf apply
+\i (01:26:30) cvf okay
+\i (01:26:42) setwindow form.vf_vis
+\i (01:26:42) FORM vf_vis all_all_visible YES 
+\i (01:26:52) setwindow pcb
+\i (01:26:52) zoom in 1 
+\i (01:26:52) setwindow pcb
+\i (01:26:52) zoom in 42.622 36.141
+\i (01:26:52) trapsize 198
+\i (01:26:52) zoom in 1 
+\i (01:26:52) setwindow pcb
+\i (01:26:52) zoom in 42.622 36.141
+\i (01:26:52) trapsize 99
+\i (01:26:53) zoom out 1 
+\i (01:26:53) setwindow pcb
+\i (01:26:53) zoom out 42.918 36.082
+\i (01:26:53) trapsize 198
+\i (01:26:53) zoom out 1 
+\i (01:26:53) setwindow pcb
+\i (01:26:53) zoom out 42.918 36.082
+\i (01:26:53) trapsize 395
+\i (01:26:56) color192 
+\i (01:26:57) setwindow cvf.dialog
+\i (01:26:57) cvf layer_mode
+\i (01:26:57) setwindow pcb
+\i (01:26:57) signalintegrity 
+\i (01:27:40) setwindow cvf.dialog
+\i (01:27:40) cvf cancel
+\i (01:27:47) setwindow pcb
+\i (01:27:47) artwork 
+\i (01:27:50) setwindow form.film_control
+\i (01:27:50) FORM film_control filmtree popup Add SilkB 
+\i (01:28:07) fillin "MetalT"
+\i (01:28:10) FORM film_control ok  
+\i (01:28:10) setwindow pcb
+\i (01:28:10) signalintegrity 
+\i (01:28:32) color192 
+\i (01:28:32) signalintegrity 
+\i (01:28:50) setwindow cvf.dialog
+\i (01:28:50) cvf global_invisible
+\i (01:28:55) cvf layer_tree_item 'Stack-Up'
+\i (01:28:59) cvf layers_visible stack-up pin/pastemask_bottom TRUE
+\i (01:29:00) cvf layer_tree_item 'Package Geometry'
+\i (01:29:07) cvf layers_visible package_geometry/pastemask_bottom TRUE
+\i (01:29:08) cvf apply
+\i (01:29:09) cvf okay
+\i (01:29:13) setwindow pcb
+\i (01:29:13) artwork 
+\i (01:29:17) setwindow form.film_control
+\i (01:29:17) FORM film_control filmtree popup Add SolderB 
+\i (01:29:21) fillin "MetalB"
+\i (01:30:21) FORM film_control ok  
+\i (01:30:21) setwindow pcb
+\i (01:30:21) signalintegrity 
+\i (01:30:27) color192 
+\i (01:30:27) setwindow cvf.dialog
+\i (01:30:27) cvf layer_mode
+\i (01:30:28) setwindow pcb
+\i (01:30:28) signalintegrity 
+\i (01:31:34) setwindow cvf.dialog
+\i (01:31:34) cvf layer_tree_item 'Comp Value' 'Components'
+\i (01:31:34) cvf layer_tree_item 'Dev Type' 'Components'
+\i (01:31:35) cvf layer_tree_item 'Tolerance' 'Components'
+\i (01:31:35) cvf layer_tree_item 'Ref Des' 'Components'
+\i (01:31:48) cvf layer_tree_item 'Components'
+\i (01:31:50) cvf layer_tree_item 'Embedded Geomerty'
+\i (01:31:51) cvf layer_tree_item 'Package Geometry'
+\i (01:31:51) cvf layer_tree_item 'Board Geometry'
+\i (01:31:52) cvf layer_tree_item 'Package Geometry'
+\i (01:31:53) cvf layer_tree_item 'Manufacturing'
+\i (01:31:54) cvf layer_tree_item 'Drawing Format'
+\i (01:31:55) cvf layer_tree_item 'Analysis'
+\i (01:31:56) cvf layer_tree_item 'Drawing Format'
+\i (01:31:56) cvf layer_tree_item 'Manufacturing'
+\i (01:32:20) cvf global_invisible
+\i (01:33:04) cvf layers_visible manufacturing/nclegend-1-2 TRUE
+\i (01:33:11) cvf layer_tree_item 'Board Geometry'
+\i (01:33:16) cvf layers_visible board_geometry/outline TRUE
+\i (01:33:20) cvf layer_tree_item 'Manufacturing'
+\i (01:33:47) cvf layer_tree_item 'Board Geometry'
+\i (01:33:50) cvf layer_tree_item 'Manufacturing'
+\i (01:34:31) cvf apply
+\i (01:34:33) cvf okay
+\i (01:34:58) setwindow pcb
+\i (01:34:58) pick grid 43.235 45.961
+\t (01:34:58) last pick:  43.180 45.720
+\i (01:35:00) artwork 
+\i (01:35:06) setwindow form.film_control
+\i (01:35:06) FORM film_control filmtree popup Add SilkT 
+\i (01:35:15) fillin "DrillDraw"
+\i (01:36:44) FORM film_control ok  
+\i (01:36:44) setwindow pcb
+\i (01:36:44) signalintegrity 
+\i (01:40:08) artwork 
+\i (01:40:11) setwindow form.film_control
+\i (01:40:11) FORM film_control select_all  
+\i (01:40:39) FORM film_control create  
+\e (01:40:39) Dynamic shapes are out of date; please update them. Check for out of date shapes in Setup Drawing Options dialog.
+\i (01:40:41) fillin confirm
+\i (01:40:43) FORM film_control create  
+\e (01:40:43) Dynamic shapes are out of date; please update them. Check for out of date shapes in Setup Drawing Options dialog.
+\i (01:40:55) fillin confirm
+\i (01:40:57) FORM film_control database_check NO 
+\i (01:40:58) FORM film_control create  
+\e (01:40:58) Dynamic shapes are out of date; please update them. Check for out of date shapes in Setup Drawing Options dialog.
+\i (01:41:01) fillin confirm
+\i (01:41:01) FORM film_control create  
+\e (01:41:01) Dynamic shapes are out of date; please update them. Check for out of date shapes in Setup Drawing Options dialog.
+\i (01:41:02) fillin confirm
+\i (01:41:04) FORM film_control create  
+\e (01:41:04) Dynamic shapes are out of date; please update them. Check for out of date shapes in Setup Drawing Options dialog.
+\i (01:41:06) fillin confirm
+\i (01:41:12) FORM film_control create  
+\e (01:41:12) Dynamic shapes are out of date; please update them. Check for out of date shapes in Setup Drawing Options dialog.
+\i (01:41:40) fillin confirm
+\i (01:41:46) FORM film_control cancel  
+\i (01:41:46) setwindow pcb
+\i (01:41:46) signalintegrity 
+\i (01:41:53) shape global param 
+\i (01:41:54) signalintegrity 
+\i (01:42:00) setwindow form.dyn_xshape
+\i (01:42:00) FORM dyn_xshape void_controls  
+\i (01:42:17) FORM dyn_xshape shape_fill  
+\i (01:42:27) FORM dyn_xshape fill_update  
+\t (01:42:27) Updating dynamic shape (1 of 1) Gnd, Boundary/Bottom @ (20.955 37.211) ...
+\w (01:42:27) 1 dynamic shape is still out of date or empty. Run Out of date shapes Report from status dialog to identify them.
+\i (01:42:30) fillin confirm
+\i (01:42:31) FORM dyn_xshape fill_update  
+\t (01:42:31) Updating dynamic shape (1 of 1) Gnd, Boundary/Bottom @ (20.955 37.211) ...
+\w (01:42:31) 1 dynamic shape is still out of date or empty. Run Out of date shapes Report from status dialog to identify them.
+\i (01:42:40) fillin confirm
+\i (01:42:49) FORM dyn_xshape fill_update  
+\t (01:42:49) Updating dynamic shape (1 of 1) Gnd, Boundary/Bottom @ (20.955 37.211) ...
+\w (01:42:49) 1 dynamic shape is still out of date or empty. Run Out of date shapes Report from status dialog to identify them.
+\i (01:42:54) fillin confirm
+\i (01:43:14) FORM dyn_xshape cancel  
+\i (01:43:32) setwindow form.vf_vis
+\i (01:43:32) FORM vf_vis 1 all_colorvisible YES 
+\i (01:43:45) setwindow pcb
+\i (01:43:45) delete 
+\i (01:43:50) setwindow form.find
+\i (01:43:50) FORM find all_off  
+\i (01:43:55) FORM find shapes YES 
+\i (01:44:00) setwindow pcb
+\i (01:44:00) drag_start grid -4.812 50.702
+\i (01:44:01) drag_stop 72.237 -0.189
+\i (01:45:03) pick grid -5.840 48.964
+\t (01:45:03) last pick:  -5.715 48.895
+\i (01:45:12) undo 
+\i (01:45:12) trapsize 395
+\i (01:45:12) signalintegrity 
+\i (01:45:14) delete 
+\i (01:45:18) setwindow form.find
+\i (01:45:18) FORM find all_off  
+\i (01:45:20) FORM find shapes YES 
+\i (01:45:21) setwindow pcb
+\i (01:45:21) drag_start grid -7.815 50.544
+\i (01:45:23) drag_stop 72.553 -1.217
+\i (01:45:34) prepopup -8.289 33.791
+\i (01:45:34) done 
+\i (01:45:35) signalintegrity 
+\i (01:45:40) setwindow form.vf_vis
+\i (01:45:40) FORM vf_vis 1 all_colorvisible NO 
+\i (01:45:41) FORM vf_vis 2 all_colorvisible YES 
+\i (01:45:49) setwindow form.find
+\i (01:45:49) FORM find all_off  
+\i (01:45:51) setwindow pcb
+\i (01:45:51) delete 
+\i (01:45:54) drag_start grid -5.365 48.648
+\i (01:45:55) drag_stop 71.526 0.443
+\i (01:45:57) prepopup -8.605 45.013
+\i (01:45:57) done 
+\i (01:45:57) signalintegrity 
+\i (01:46:39) artwork 
+\i (01:46:42) setwindow form.film_control
+\i (01:46:42) FORM film_control select_all  
+\i (01:46:44) FORM film_control database_check NO 
+\i (01:46:45) FORM film_control create  
+\e (01:46:45) Dynamic shapes are out of date; please update them. Check for out of date shapes in Setup Drawing Options dialog.
+\i (01:46:46) fillin confirm
+\i (01:46:56) setwindow pcb
+\i (01:46:56) artwork 
+\i (01:46:59) setwindow form.film_control
+\i (01:46:59) FORM film_control general_parameters  
+\i (01:47:18) FORM film_control format_int_places 3 
+\i (01:47:19) FORM film_control ok  
+\i (01:47:19) setwindow pcb
+\i (01:47:19) signalintegrity 
+\i (01:47:28) artwork 
+\i (01:47:30) setwindow form.film_control
+\i (01:47:30) FORM film_control select_all  
+\i (01:47:32) FORM film_control create  
+\e (01:47:32) Dynamic shapes are out of date; please update them. Check for out of date shapes in Setup Drawing Options dialog.
+\i (01:47:34) fillin confirm
+\i (01:47:37) FORM film_control cancel  
+\i (01:47:37) setwindow pcb
+\i (01:47:37) signalintegrity 
+\i (01:51:13) status 
+\i (01:51:13) signalintegrity 
+\i (01:51:15) setwindow form.status
+\i (01:51:15) FORM status fill_update  
+\t (01:51:15) Updating dynamic shape (1 of 1) Gnd, Boundary/Bottom @ (20.955 37.211) ...
+\w (01:51:15) 1 dynamic shape is still out of date or empty. Run Out of date shapes Report from status dialog to identify them.
+\i (01:51:17) fillin confirm
+\i (01:51:18) FORM status drc_update  
+\t (01:51:18) Running DRC, wait...
+\t (01:51:18) Performing DRC...
+\t (01:51:18) Multithreaded DRC update (4 threads).
+\t (01:51:18) No DRC errors detected.
+\t (01:51:18) DRC done.
+\i (01:51:18) FORM status drc_update  
+\t (01:51:18) Running DRC, wait...
+\t (01:51:19) Performing DRC...
+\t (01:51:19) Multithreaded DRC update (4 threads).
+\t (01:51:19) No DRC errors detected.
+\t (01:51:19) DRC done.
+\i (01:51:20) FORM status drc_color 1 
+\i (01:51:20) setwindow pcb
+\i (01:51:20) reports drc 
+\i (01:51:20) reports "drc"
+\i (01:51:21) setwindow form.status
+\i (01:51:21) FORM status shorts_drc_color 1 
+\i (01:51:21) setwindow pcb
+\i (01:51:21) reports drc_shorts 
+\i (01:51:21) reports "drc_shorts"
+\i (01:51:21) signalintegrity 
+\i (01:51:22) setwindow text
+\i (01:51:22) close 
+\i (01:51:22) setwindow text
+\i (01:51:22) close 
+\i (01:52:28) setwindow form.status
+\i (01:52:28) FORM status done  
+\i (01:52:33) setwindow pcb
+\i (01:52:33) status 
+\i (01:52:33) signalintegrity 
+\i (01:52:40) setwindow form.status
+\i (01:52:40) FORM status done  
+\i (01:52:46) setwindow pcb
+\i (01:52:46) drag_start grid -2.046 49.517
+\i (01:52:46) drag_stop 73.738 2.893
+\i (01:53:43) artwork 
+\i (01:53:44) setwindow form.film_control
+\i (01:53:44) FORM film_control cancel  
+\i (01:53:44) setwindow pcb
+\i (01:53:44) signalintegrity 
+\i (01:53:47) color192 
+\i (01:53:47) setwindow cvf.dialog
+\i (01:53:47) cvf layer_mode
+\i (01:53:48) setwindow pcb
+\i (01:53:48) signalintegrity 
+\i (01:53:53) setwindow cvf.dialog
+\i (01:53:53) cvf global_invisible
+\i (01:54:11) cvf layers_visible board_geometry/outline TRUE
+\i (01:54:17) cvf layers_visible board_geometry/silkscreen_bottom TRUE
+\i (01:54:18) cvf layers_visible board_geometry/silkscreen_top TRUE
+\i (01:54:22) cvf layers_visible board_geometry/soldermask_bottom TRUE
+\i (01:54:23) cvf layers_visible board_geometry/soldermask_top TRUE
+\i (01:54:34) cvf layer_tree_item 'Manufacturing'
+\i (01:54:35) cvf layers_visible manufacturing/nclegend-1-2 TRUE
+\i (01:54:38) cvf layer_tree_item 'Package Geometry'
+\i (01:54:45) cvf layers_visible package_geometry/pastemask_bottom TRUE
+\i (01:54:45) cvf layers_visible package_geometry/pastemask_top TRUE
+\i (01:54:46) cvf layers_visible package_geometry/pin_number TRUE
+\i (01:54:46) cvf layers_visible package_geometry/silkscreen_bottom TRUE
+\i (01:54:47) cvf layers_visible package_geometry/silkscreen_top TRUE
+\i (01:54:51) cvf layers_visible package_geometry/soldermask_bottom TRUE
+\i (01:54:52) cvf layers_visible package_geometry/soldermask_top TRUE
+\i (01:55:06) cvf layer_tree_item 'Components'
+\i (01:55:14) cvf layers_visible components ref_des/silkscreen_bottom TRUE
+\i (01:55:14) cvf layers_visible components ref_des/silkscreen_top TRUE
+\i (01:55:21) cvf layer_tree_item 'Analysis'
+\i (01:55:22) cvf layer_tree_item 'Drawing Format'
+\i (01:55:25) cvf layer_tree_item 'Manufacturing'
+\i (01:55:27) cvf layer_tree_item 'Components'
+\i (01:55:29) cvf layer_tree_item 'Embedded Geomerty'
+\i (01:55:30) cvf layer_tree_item 'Package Geometry'
+\i (01:55:32) cvf layer_tree_item 'Board Geometry'
+\i (01:55:33) cvf layer_tree_item 'Non-Conductor' 'Stack-Up'
+\i (01:55:37) cvf layer_tree_item 'Flow Plan' 'Stack-Up'
+\i (01:55:37) cvf layer_tree_item 'Conductor' 'Stack-Up'
+\i (01:55:40) cvf apply
+\i (01:55:41) cvf okay
+\i (01:55:45) setwindow pcb
+\i (01:55:45) artwork 
+\i (01:55:50) setwindow form.film_control
+\i (01:55:50) FORM film_control filmtree popup Add TOP 
+\i (01:55:54) fillin "Design"
+\i (01:55:56) FORM film_control ok  
+\i (01:55:56) setwindow pcb
+\i (01:55:56) signalintegrity 
+\i (01:56:03) pick grid 0.641 34.028
+\t (01:56:03) last pick:  0.635 34.290
+\i (01:56:04) zoom out 1 
+\i (01:56:04) setwindow pcb
+\i (01:56:04) zoom out 36.992 28.418
+\i (01:56:04) trapsize 790
+\i (01:56:04) zoom out 1 
+\i (01:56:04) setwindow pcb
+\i (01:56:04) zoom out 72.015 28.259
+\i (01:56:04) trapsize 1580
+\i (01:56:04) zoom out 1 
+\i (01:56:04) setwindow pcb
+\i (01:56:04) zoom out 194.029 71.698
+\i (01:56:04) trapsize 3161
+\i (01:56:07) shape global param 
+\i (01:56:07) signalintegrity 
+\i (01:56:11) setwindow form.dyn_xshape
+\i (01:56:11) FORM dyn_xshape dyn_cop_disabled YES 
+\i (01:56:12) FORM dyn_xshape apply  
+\i (01:56:13) FORM dyn_xshape force_update  
+\t (01:56:13) Updating dynamic shape (1 of 1) Gnd, Boundary/Bottom @ (20.955 37.211) ...
+\w (01:56:13) 1 dynamic shape is still out of date or empty. Run Out of date shapes Report from status dialog to identify them.
+\i (01:56:15) fillin confirm
+\i (01:56:15) FORM dyn_xshape dyn_cop_wysiwyg YES 
+\i (01:56:16) FORM dyn_xshape force_update  
+\t (01:56:16) Updating dynamic shape (1 of 1) Gnd, Boundary/Bottom @ (20.955 37.211) ...
+\w (01:56:16) 1 dynamic shape is still out of date or empty. Run Out of date shapes Report from status dialog to identify them.
+\i (01:56:18) fillin confirm
+\i (01:56:22) FORM dyn_xshape done  
+\i (01:56:23) setwindow pcb
+\i (01:56:23) zoom in 1 
+\i (01:56:23) setwindow pcb
+\i (01:56:23) zoom in -8.274 10.060
+\i (01:56:23) trapsize 1581
+\i (01:56:23) zoom in 1 
+\i (01:56:23) setwindow pcb
+\i (01:56:23) zoom in -8.274 10.060
+\i (01:56:23) trapsize 790
+\i (01:56:24) roam start
+\i (01:56:24) roam x -112
+\i (01:56:24) roam y 64
+\i (01:56:24) roam x -80
+\i (01:56:24) roam y 64
+\i (01:56:24) roam y 16
+\i (01:56:24) roam end
+\i (01:56:34) color192 
+\i (01:56:34) setwindow cvf.dialog
+\i (01:56:34) cvf layer_mode
+\i (01:56:34) setwindow pcb
+\i (01:56:34) signalintegrity 
+\i (01:56:38) setwindow cvf.dialog
+\i (01:56:38) cvf global_visible
+\i (01:56:40) cvf apply
+\i (01:56:43) setwindow pcb
+\i (01:56:43) zoom in 1 
+\i (01:56:43) setwindow pcb
+\i (01:56:43) zoom in -5.429 -19.022
+\i (01:56:43) trapsize 395
+\i (01:56:43) zoom in 1 
+\i (01:56:43) setwindow pcb
+\i (01:56:43) zoom in -5.429 -19.022
+\i (01:56:43) trapsize 198
+\i (01:56:44) zoom out 1 
+\i (01:56:44) setwindow pcb
+\i (01:56:44) zoom out 2.395 -3.928
+\i (01:56:44) trapsize 395
+\i (01:56:44) zoom out 1 
+\i (01:56:44) setwindow pcb
+\i (01:56:44) zoom out 2.395 -3.927
+\i (01:56:44) trapsize 790
+\i (01:56:46) zoom out 1 
+\i (01:56:46) setwindow pcb
+\i (01:56:46) zoom out 48.151 31.239
+\i (01:56:46) trapsize 1581
+\i (01:56:46) zoom out 1 
+\i (01:56:46) setwindow pcb
+\i (01:56:46) zoom out 146.302 112.479
+\i (01:56:46) trapsize 3161
+\i (01:56:46) zoom out 1 
+\i (01:56:46) setwindow pcb
+\i (01:56:46) zoom out 342.603 274.956
+\i (01:56:46) trapsize 3161
+\i (01:56:46) zoom out 1 
+\i (01:56:46) setwindow pcb
+\i (01:56:46) zoom out 342.603 274.956
+\i (01:56:46) trapsize 3161
+\i (01:56:47) zoom in 1 
+\i (01:56:47) setwindow pcb
+\i (01:56:47) zoom in 35.348 -1.320
+\i (01:56:47) trapsize 1581
+\i (01:56:47) zoom in 1 
+\i (01:56:47) setwindow pcb
+\i (01:56:47) zoom in 34.400 -1.636
+\i (01:56:47) trapsize 790
+\i (01:56:48) roam start
+\i (01:56:48) roam x -208
+\i (01:56:48) roam y -48
+\i (01:56:48) roam x -192
+\i (01:56:48) roam y -48
+\i (01:56:48) roam end
+\i (01:56:49) roam start
+\i (01:56:49) roam y 64
+\i (01:56:49) roam x 16
+\i (01:56:49) roam y 80
+\i (01:56:49) roam y 64
+\i (01:56:49) roam y 32
+\i (01:56:49) roam end
+\i (01:56:51) setwindow cvf.dialog
+\i (01:56:51) cvf okay
+\i (01:56:54) setwindow pcb
+\i (01:56:54) status 
+\i (01:56:55) signalintegrity 
+\i (01:56:56) setwindow form.status
+\i (01:56:56) FORM status shape_color 1 
+\i (01:56:57) FORM status done  
+\i (01:57:00) setwindow pcb
+\i (01:57:00) status 
+\i (01:57:00) signalintegrity 
+\i (01:57:01) setwindow form.status
+\i (01:57:01) FORM status shape_color 1 
+\i (01:57:03) setwindow pcb
+\i (01:57:03) zoom center 
+\t (01:57:03) Pick center for the new display.
+\i (01:57:03) pick 20.955 37.211 
+\t (01:57:03) last pick:  20.955 37.211
+\i (01:57:03) trapsize 790
+\i (01:57:03) signalintegrity 
+\i (01:57:04) zoom in 1 
+\i (01:57:04) setwindow pcb
+\i (01:57:04) zoom in 68.065 28.439
+\i (01:57:04) trapsize 395
+\i (01:57:04) zoom in 1 
+\i (01:57:04) setwindow pcb
+\i (01:57:04) zoom in 67.750 28.361
+\i (01:57:04) trapsize 198
+\i (01:57:04) zoom in 1 
+\i (01:57:04) setwindow pcb
+\i (01:57:04) zoom in 67.750 28.361
+\i (01:57:04) trapsize 99
+\i (01:57:05) zoom center 
+\t (01:57:05) Pick center for the new display.
+\i (01:57:05) pick 20.955 37.211 
+\t (01:57:05) last pick:  20.955 37.211
+\i (01:57:05) trapsize 99
+\i (01:57:05) signalintegrity 
+\i (01:57:08) setwindow text
+\i (01:57:08) close 
+\i (01:57:09) setwindow form.status
+\i (01:57:09) FORM status done  
+\i (01:57:10) setwindow pcb
+\i (01:57:10) prepopup 12.213 42.497
+\i (01:57:11) pick grid 9.882 42.753
+\t (01:57:11) last pick:  10.160 42.545
+\i (01:57:17) pick grid 14.979 41.311
+\t (01:57:17) last pick:  15.240 41.275
+\i (01:57:20) show element 
+\i (01:57:22) setwindow form.find
+\i (01:57:22) FORM find all_off  
+\i (01:57:26) FORM find shapes YES 
+\i (01:57:28) setwindow pcb
+\i (01:57:28) pick grid 21.004 36.728
+\t (01:57:28) last pick:  20.955 36.830
+\i (01:57:32) setwindow text
+\i (01:57:32) close 
+\i (01:57:35) setwindow pcb
+\i (01:57:35) delete 
+\i (01:57:40) pick grid 20.965 36.945
+\t (01:57:40) last pick:  20.955 36.830
+\t (01:57:40) Dynamic Shape "Gnd, Boundary/Bottom"
+\i (01:57:40) pick grid 12.983 40.560
+\t (01:57:40) last pick:  12.700 40.640
+\i (01:57:41) prepopup 11.146 41.074
+\i (01:57:41) done 
+\i (01:57:41) signalintegrity 
+\i (01:57:41) pick grid 11.166 41.074
+\t (01:57:41) last pick:  11.430 41.275
+\i (01:57:47) artwork 
+\i (01:57:52) setwindow form.film_control
+\i (01:57:52) FORM film_control select_all  
+\i (01:57:53) FORM film_control filmtree 'MULTISEL NO' Design 
+\i (01:57:53) FORM film_control filmtree  Design 
+\i (01:57:54) FORM film_control create  
+\t (01:57:54) Starting Create artwork films...
+\w (01:57:58) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (01:57:59) Artwork generated with warnings.
+\i (01:58:51) setwindow pcb
+\i (01:58:51) tab 
+\i (01:58:51) setwindow pcb
+\i (01:58:51) mouse_pos 12.964 43.879
+\i (01:58:51) tab
+\i (01:59:02) status 
+\i (02:00:04) setwindow form.film_control
+\i (02:00:04) FORM film_control cancel  
+\i (02:00:04) setwindow pcb
+\i (02:00:04) signalintegrity 
+\i (02:01:45) setwindow form.status
+\i (02:01:45) FORM status done  
+\i (02:04:14) setwindow pcb
+\i (02:04:14) pick grid 15.710 42.338
+\t (02:04:14) last pick:  15.875 42.545
+\i (02:12:12) pick grid 17.290 32.421
+\t (02:12:12) last pick:  17.145 32.385
+\i (02:21:06) zoom out 1 
+\i (02:21:06) setwindow pcb
+\i (02:21:06) zoom out 31.100 39.573
+\i (02:21:06) trapsize 198
+\i (02:21:07) zoom out 1 
+\i (02:21:07) setwindow pcb
+\i (02:21:07) zoom out 31.100 39.533
+\i (02:21:07) trapsize 395
+\i (02:21:07) zoom out 1 
+\i (02:21:07) setwindow pcb
+\i (02:21:07) zoom out 49.650 38.979
+\i (02:21:07) trapsize 790
+\i (02:21:13) artwork 
+\i (02:21:47) setwindow form.film_control
+\i (02:21:47) FORM film_control filmtree  Design 
+\i (02:21:47) FORM film_control filmtree  DrillDraw 
+\i (02:21:48) FORM film_control filmtree  MetalB 
+\i (02:21:49) FORM film_control filmtree  SolderB 
+\i (02:21:49) FORM film_control filmtree  SilkB 
+\i (02:21:50) FORM film_control filmtree  SilkT 
+\i (02:22:11) FORM film_control filmtree  SilkB 
+\i (02:22:11) FORM film_control filmtree  SilkT 
+\i (02:22:15) FORM film_control filmtree  DrillDraw 
+\i (02:22:15) FORM film_control filmtree  MetalT 
+\i (02:22:15) FORM film_control filmtree  SilkB 
+\i (02:22:16) FORM film_control filmtree  SilkT 
+\i (02:22:19) FORM film_control filmtree  DrillDraw 
+\i (02:22:20) FORM film_control filmtree  MetalT 
+\i (02:22:20) FORM film_control filmtree  DrillDraw 
+\i (02:22:21) FORM film_control filmtree  Design 
+\i (02:22:22) FORM film_control filmtree  MetalB 
+\i (02:22:22) FORM film_control filmtree  SilkB 
+\i (02:22:23) FORM film_control filmtree  SilkT 
+\i (02:22:32) FORM film_control filmtree  DrillDraw 
+\i (02:22:51) FORM film_control undefined_line_width 0.1 
+\i (02:23:13) FORM film_control filmtree  SilkB 
+\i (02:23:18) FORM film_control undefined_line_width 0.2 
+\i (02:23:18) FORM film_control filmtree  SilkT 
+\i (02:23:20) FORM film_control undefined_line_width 0.2 
+\i (02:24:48) FORM film_control select_all  
+\i (02:24:57) FORM film_control create  
+\t (02:24:57) Starting Create artwork films...
+\w (02:25:00) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (02:25:01) Artwork generated with warnings.
+\i (02:25:54) setwindow text
+\i (02:25:54) close 
+\i (02:25:55) setwindow form.film_control
+\i (02:25:55) FORM film_control filmtree 'MULTISEL NO' Design 
+\i (02:25:55) FORM film_control filmtree  Design 
+\i (02:25:58) FORM film_control create  
+\t (02:25:58) Starting Create artwork films...
+\w (02:25:59) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (02:26:00) Artwork generated with warnings.
+\i (02:31:58) FORM film_control cancel  
+\i (02:31:58) setwindow pcb
+\i (02:31:58) signalintegrity 
+\i (02:32:00) zoom in 1 
+\i (02:32:00) setwindow pcb
+\i (02:32:00) zoom in 45.936 28.706
+\i (02:32:00) trapsize 395
+\i (02:32:00) zoom in 1 
+\i (02:32:00) setwindow pcb
+\i (02:32:00) zoom in 45.936 28.707
+\i (02:32:00) trapsize 198
+\i (02:32:00) zoom in 1 
+\i (02:32:00) setwindow pcb
+\i (02:32:00) zoom in 45.936 28.707
+\i (02:32:00) trapsize 99
+\i (02:32:00) zoom in 1 
+\i (02:32:00) setwindow pcb
+\i (02:32:00) zoom in 45.936 28.727
+\i (02:32:00) trapsize 49
+\i (02:32:00) zoom in 1 
+\i (02:32:00) setwindow pcb
+\i (02:32:00) zoom in 45.935 28.728
+\i (02:32:00) trapsize 25
+\i (02:32:01) zoom out 1 
+\i (02:32:01) setwindow pcb
+\i (02:32:01) zoom out 46.132 28.753
+\i (02:32:01) trapsize 49
+\i (02:32:01) zoom out 1 
+\i (02:32:01) setwindow pcb
+\i (02:32:01) zoom out 46.132 28.774
+\i (02:32:01) trapsize 99
+\i (02:32:01) zoom out 1 
+\i (02:32:01) setwindow pcb
+\i (02:32:01) zoom out 45.836 28.931
+\i (02:32:01) trapsize 198
+\i (02:32:02) pick grid 57.772 23.043
+\t (02:32:02) last pick:  57.785 22.860
+\i (02:32:03) pick grid 57.416 23.043
+\t (02:32:03) last pick:  57.150 22.860
+\i (02:32:03) pick grid dbl 57.416 23.043
+\t (02:32:03) last pick:  57.150 22.860
+\i (02:32:07) zoom in 1 
+\i (02:32:07) setwindow pcb
+\i (02:32:07) zoom in 42.715 35.650
+\i (02:32:07) trapsize 99
+\i (02:32:07) zoom in 1 
+\i (02:32:07) setwindow pcb
+\i (02:32:07) zoom in 42.715 35.650
+\i (02:32:07) trapsize 49
+\i (02:32:08) pick grid 43.437 35.354
+\t (02:32:08) last pick:  43.180 35.560
+\i (02:32:09) pick grid 43.447 35.334
+\t (02:32:09) last pick:  43.180 35.560
+\i (02:32:09) pick grid dbl 43.447 35.334
+\t (02:32:09) last pick:  43.180 35.560
+\i (02:32:09) pick grid 43.555 35.927
+\t (02:32:09) last pick:  43.815 36.195
+\i (02:32:10) pick grid dbl 43.555 35.927
+\t (02:32:10) last pick:  43.815 36.195
+\i (02:32:10) pick grid 43.555 35.927
+\t (02:32:10) last pick:  43.815 36.195
+\i (02:32:10) pick grid dbl 43.555 35.927
+\t (02:32:10) last pick:  43.815 36.195
+\i (02:32:10) pick grid 43.555 35.927
+\t (02:32:10) last pick:  43.815 36.195
+\i (02:32:10) pick grid dbl 43.555 35.927
+\t (02:32:10) last pick:  43.815 36.195
+\i (02:32:10) pick grid 43.555 35.927
+\t (02:32:10) last pick:  43.815 36.195
+\i (02:32:11) prepopup 41.817 33.170
+\i (02:32:12) pick grid 41.965 33.684
+\t (02:32:12) last pick:  41.910 33.655
+\i (02:32:49) pick grid 39.564 35.403
+\t (02:32:49) last pick:  39.370 35.560
+\i (02:32:49) pick grid dbl 39.564 35.403
+\t (02:32:49) last pick:  39.370 35.560
+\i (02:33:00) zoom out 1 
+\i (02:33:00) setwindow pcb
+\i (02:33:00) zoom out 42.558 34.662
+\i (02:33:00) trapsize 99
+\i (02:33:00) zoom out 1 
+\i (02:33:00) setwindow pcb
+\i (02:33:00) zoom out 42.755 34.702
+\i (02:33:00) trapsize 198
+\i (02:33:09) setwindow form.vf_vis
+\i (02:33:09) FORM vf_vis colorview_list Film: SilkB 
+\i (02:33:10) setwindow pcb
+\i (02:33:10) zoom out 1 
+\i (02:33:10) setwindow pcb
+\i (02:33:10) zoom out 32.163 31.896
+\i (02:33:10) trapsize 395
+\i (02:33:10) zoom out 1 
+\i (02:33:10) setwindow pcb
+\i (02:33:10) zoom out 32.163 31.896
+\i (02:33:10) trapsize 790
+\i (02:33:11) zoom in 1 
+\i (02:33:11) setwindow pcb
+\i (02:33:11) zoom in -3.723 32.212
+\i (02:33:11) trapsize 395
+\i (02:33:11) zoom in 1 
+\i (02:33:11) setwindow pcb
+\i (02:33:11) zoom in -3.802 32.212
+\i (02:33:11) trapsize 198
+\i (02:33:12) zoom out 1 
+\i (02:33:12) setwindow pcb
+\i (02:33:12) zoom out -0.284 32.765
+\i (02:33:12) trapsize 395
+\i (02:33:18) setwindow form.vf_vis
+\i (02:33:18) FORM vf_vis all_all_visible YES 
+\i (02:33:51) setwindow pcb
+\i (02:33:51) showhide views1 
+\i (02:33:51) trapsize 399
+\i (02:33:52) signalintegrity 
+\i (02:33:54) zoom in 1 
+\i (02:33:54) setwindow pcb
+\i (02:33:54) zoom in 15.444 20.593
+\i (02:33:54) trapsize 198
+\i (02:33:55) zoom in 1 
+\i (02:33:55) setwindow pcb
+\i (02:33:55) zoom in 15.247 20.949
+\i (02:33:55) trapsize 99
+\i (02:33:55) zoom out 1 
+\i (02:33:55) setwindow pcb
+\i (02:33:55) zoom out 15.306 21.028
+\i (02:33:55) trapsize 198
+\i (02:33:56) zoom out 1 
+\i (02:33:56) setwindow pcb
+\i (02:33:56) zoom out 14.990 21.265
+\i (02:33:56) trapsize 395
+\i (02:33:57) zoom out 1 
+\i (02:33:57) setwindow pcb
+\i (02:33:57) zoom out 13.094 25.533
+\i (02:33:57) trapsize 790
+\i (02:33:57) zoom out 1 
+\i (02:33:57) setwindow pcb
+\i (02:33:57) zoom out 12.777 25.849
+\i (02:33:57) trapsize 1581
+\i (02:34:01) zoom out 1 
+\i (02:34:01) setwindow pcb
+\i (02:34:01) zoom out 187.124 -17.435
+\i (02:34:01) trapsize 3162
+\i (02:34:01) zoom out 1 
+\i (02:34:01) setwindow pcb
+\i (02:34:01) zoom out 424.249 15.130
+\i (02:34:01) trapsize 6323
+\i (02:34:01) zoom out 1 
+\i (02:34:01) setwindow pcb
+\i (02:34:01) zoom out 898.498 80.260
+\i (02:34:01) trapsize 10380
+\i (02:34:02) zoom out 1 
+\i (02:34:02) setwindow pcb
+\i (02:34:02) zoom out 1506.971 163.824
+\i (02:34:02) trapsize 10380
+\i (02:34:02) zoom in 1 
+\i (02:34:02) setwindow pcb
+\i (02:34:02) zoom in 1506.971 163.824
+\i (02:34:02) trapsize 5190
+\i (02:34:02) zoom in 1 
+\i (02:34:02) setwindow pcb
+\i (02:34:02) zoom in 728.486 163.824
+\i (02:34:02) trapsize 2595
+\i (02:34:02) zoom in 1 
+\i (02:34:02) setwindow pcb
+\i (02:34:02) zoom in 339.243 163.824
+\i (02:34:02) trapsize 1297
+\i (02:34:02) zoom in 1 
+\i (02:34:02) setwindow pcb
+\i (02:34:02) zoom in 288.519 163.824
+\i (02:34:02) trapsize 649
+\i (02:34:02) zoom in 1 
+\i (02:34:02) setwindow pcb
+\i (02:34:02) zoom in 288.520 163.824
+\i (02:34:02) trapsize 324
+\i (02:34:05) zoom out 1 
+\i (02:34:05) setwindow pcb
+\i (02:34:05) zoom out 256.083 178.097
+\i (02:34:05) trapsize 649
+\i (02:34:05) zoom out 1 
+\i (02:34:05) setwindow pcb
+\i (02:34:05) zoom out 256.082 178.096
+\i (02:34:05) trapsize 1298
+\i (02:34:05) zoom out 1 
+\i (02:34:05) setwindow pcb
+\i (02:34:05) zoom out 158.765 178.097
+\i (02:34:05) trapsize 2595
+\i (02:34:05) zoom out 1 
+\i (02:34:05) setwindow pcb
+\i (02:34:05) zoom out 79.750 178.096
+\i (02:34:05) trapsize 4388
+\i (02:34:05) zoom out 1 
+\i (02:34:05) setwindow pcb
+\i (02:34:05) zoom out 169.411 233.478
+\i (02:34:05) trapsize 4388
+\i (02:34:06) zoom in 1 
+\i (02:34:06) setwindow pcb
+\i (02:34:06) zoom in 15.823 7.047
+\i (02:34:06) trapsize 2194
+\i (02:34:06) zoom in 1 
+\i (02:34:06) setwindow pcb
+\i (02:34:06) zoom in -18.844 14.946
+\i (02:34:06) trapsize 1097
+\i (02:34:07) zoom in 1 
+\i (02:34:07) setwindow pcb
+\i (02:34:07) zoom in 19.992 28.111
+\i (02:34:07) trapsize 549
+\i (02:34:07) zoom in 1 
+\i (02:34:07) setwindow pcb
+\i (02:34:07) zoom in 19.773 28.111
+\i (02:34:07) trapsize 274
+\i (02:34:07) zoom out 1 
+\i (02:34:07) setwindow pcb
+\i (02:34:07) zoom out 20.595 26.520
+\i (02:34:07) trapsize 549
+\i (02:34:07) zoom out 1 
+\i (02:34:07) setwindow pcb
+\i (02:34:07) zoom out 20.595 26.740
+\i (02:34:07) trapsize 1097
+\i (02:34:08) zoom out 1 
+\i (02:34:08) setwindow pcb
+\i (02:34:08) zoom out 20.155 33.542
+\i (02:34:08) trapsize 2194
+\i (02:34:09) roam start
+\i (02:34:09) roam y -16
+\i (02:34:09) roam y 32
+\i (02:34:09) roam y -16
+\i (02:34:09) roam y -16
+\i (02:34:09) roam y -16
+\i (02:34:09) roam y -16
+\i (02:34:09) roam y -32
+\i (02:34:09) roam y -16
+\i (02:34:10) roam y 16
+\i (02:34:10) roam y 80
+\i (02:34:10) roam y 32
+\i (02:34:10) roam end
+\i (02:34:15) showhide views1 
+\i (02:34:16) signalintegrity 
+\i (02:34:16) zoom in 1 
+\i (02:34:16) setwindow pcb
+\i (02:34:16) zoom in 13.192 14.508
+\i (02:34:16) trapsize 1097
+\i (02:34:17) zoom in 1 
+\i (02:34:17) setwindow pcb
+\i (02:34:17) zoom in 12.534 16.483
+\i (02:34:17) trapsize 549
+\i (02:34:21) showhide views1 
+\i (02:34:22) signalintegrity 
+\i (02:34:28) showhide views1 
+\i (02:34:28) signalintegrity 
+\i (02:34:56) nctape_full 
+\i (02:36:00) setwindow form.nc_drill
+\i (02:36:00) FORM nc_drill repeat_codes NO 
+\i (02:36:33) FORM nc_drill execute  
+\t (02:36:33) Starting Generating NC Drill...
+\i (02:36:45) FORM nc_drill cancel  
+\i (02:36:45) setwindow pcb
+\i (02:36:45) signalintegrity 
+\i (02:39:39) artwork 
+\i (02:39:48) setwindow form.film_control
+\i (02:39:48) FORM film_control select_all  
+\i (02:39:53) FORM film_control filmtree popup 'Save All Checked' TOP 
+\i (02:41:09) setwindow pcb
+\i (02:41:09) pick grid 55.320 66.620
+\t (02:41:09) last pick:  55.245 66.675
+\i (02:41:24) filemgr 
+\i (02:42:33) pick grid 93.827 14.289
+\t (02:42:33) last pick:  93.980 14.605
+\i (02:42:38) setwindow form.film_control
+\i (02:42:38) FORM film_control filmtree  Design 
+\i (02:42:40) FORM film_control select_all  
+\i (02:42:41) FORM film_control filmtree 'MULTISEL NO' BOTTOM 
+\i (02:42:41) FORM film_control filmtree  BOTTOM 
+\i (02:42:44) FORM film_control filmtree popup Cut Design 
+\i (02:42:46) FORM film_control filmtree popup 
